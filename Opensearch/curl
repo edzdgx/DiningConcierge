@@ -1,0 +1,1 @@
+curl -XPOST -u 'master:Jinan98@aws' 'https://search-cc-restaurant-i5r7ahptz75kqm36erw4b4j4gy.us-east-1.es.amazonaws.com/_bulk' --data-binary @Brazilian_json.json -H 'Content-Type: application/json'
