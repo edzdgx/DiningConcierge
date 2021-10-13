@@ -1,0 +1,1417 @@
+{
+  "data": {
+    "search": {
+      "total": 240,
+      "business": [
+        {
+          "name": "Dos Caminos",
+          "id": "zxdsVR_hHUzhBFfus4yd7A",
+          "rating": 3,
+          "review_count": 1083,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "675 Hudson St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.7404330511257,
+            "longitude": -74.0054753422738
+          }
+        },
+        {
+          "name": "Canyon Road",
+          "id": "WE064Ln20S4MQVT1hETCCw",
+          "rating": 4,
+          "review_count": 263,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "1470 1st Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10075"
+          },
+          "coordinates": {
+            "latitude": 40.770694,
+            "longitude": -73.953774
+          }
+        },
+        {
+          "name": "Arriba Arriba Midtown",
+          "id": "jYAqup9AF9N9wYAWYanZ-A",
+          "rating": 3.5,
+          "review_count": 942,
+          "categories": [
+            {
+              "title": "Tacos",
+              "alias": "tacos"
+            },
+            {
+              "title": "Tex-Mex",
+              "alias": "tex-mex"
+            },
+            {
+              "title": "New Mexican Cuisine",
+              "alias": "newmexican"
+            }
+          ],
+          "location": {
+            "address1": "762 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.7641288111074,
+            "longitude": -73.9882850646973
+          }
+        },
+        {
+          "name": "5ive Spice",
+          "id": "9fG8-RRh1rzuCKN2TmF-QQ",
+          "rating": 4.5,
+          "review_count": 411,
+          "categories": [
+            {
+              "title": "Vietnamese",
+              "alias": "vietnamese"
+            },
+            {
+              "title": "Tacos",
+              "alias": "tacos"
+            },
+            {
+              "title": "Sandwiches",
+              "alias": "sandwiches"
+            }
+          ],
+          "location": {
+            "address1": "227 Mulberry St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.722598,
+            "longitude": -73.996272
+          }
+        },
+        {
+          "name": "Cantina Taqueria & Tequila Bar",
+          "id": "UH_aksIxzGPPyhWZJbTP7A",
+          "rating": 4,
+          "review_count": 555,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "1838 7th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10026"
+          },
+          "coordinates": {
+            "latitude": 40.800338992692026,
+            "longitude": -73.95497594715312
+          }
+        },
+        {
+          "name": "Chinelos Tacos NYC",
+          "id": "WSjhU85kBSvidxDJaBTV1g",
+          "rating": 4.5,
+          "review_count": 48,
+          "categories": [
+            {
+              "title": "Food Trucks",
+              "alias": "foodtrucks"
+            },
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "4-09 Center Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Queens",
+            "country": "US",
+            "postal_code": "11101"
+          },
+          "coordinates": {
+            "latitude": 40.7423518016186,
+            "longitude": -73.9599615129021
+          }
+        },
+        {
+          "name": "Kuxé",
+          "id": "Q0SZ32fKVWA02NX8Wdql7w",
+          "rating": 4.5,
+          "review_count": 75,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "205 Thompson St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.72876,
+            "longitude": -73.9995
+          }
+        },
+        {
+          "name": "Jajaja Plantas Mexicana",
+          "id": "U6l20gH8YuOJMO8vF6_Ufw",
+          "rating": 4.5,
+          "review_count": 23,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "450 W 33rd St",
+            "address2": null,
+            "address3": "Whole Foods",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10001"
+          },
+          "coordinates": {
+            "latitude": 40.75264793272132,
+            "longitude": -73.99981519174997
+          }
+        },
+        {
+          "name": "Tortazo",
+          "id": "fhqAmrQsX45YQ9zyvZ938g",
+          "rating": 4.5,
+          "review_count": 10,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "1123 Broadway",
+            "address2": null,
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10010"
+          },
+          "coordinates": {
+            "latitude": 40.74332,
+            "longitude": -73.98924
+          }
+        },
+        {
+          "name": "Chela Modern Mexican",
+          "id": "CfOBb6NU2awo8xclJpKU3g",
+          "rating": 4.5,
+          "review_count": 553,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "408 5th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11215"
+          },
+          "coordinates": {
+            "latitude": 40.67032,
+            "longitude": -73.98569
+          }
+        },
+        {
+          "name": "Mayamezcal",
+          "id": "e7krRmyE5upHv2gsEOdR8w",
+          "rating": 4,
+          "review_count": 610,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "304 E 6th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10003"
+          },
+          "coordinates": {
+            "latitude": 40.72711,
+            "longitude": -73.98817
+          }
+        },
+        {
+          "name": "Sinigual",
+          "id": "1nR3kKOs938gcgnw6p5wjg",
+          "rating": 3.5,
+          "review_count": 936,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "640 Third Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Manhattan",
+            "country": "US",
+            "postal_code": "10017"
+          },
+          "coordinates": {
+            "latitude": 40.75048,
+            "longitude": -73.97488
+          }
+        },
+        {
+          "name": "El Rey del Sabor",
+          "id": "H08vCdbcP3oy0cBEKqM5KQ",
+          "rating": 4,
+          "review_count": 71,
+          "categories": [
+            {
+              "title": "Food Stands",
+              "alias": "foodstands"
+            },
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "166 E 60th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10021"
+          },
+          "coordinates": {
+            "latitude": 40.7622400274526,
+            "longitude": -73.9663818196397
+          }
+        },
+        {
+          "name": "Lupita's Restaurant",
+          "id": "NXjCypQNl7tBrdR3gkFqdg",
+          "rating": 4,
+          "review_count": 134,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "2049 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10029"
+          },
+          "coordinates": {
+            "latitude": 40.790205,
+            "longitude": -73.943136
+          }
+        },
+        {
+          "name": "Cafe Habana",
+          "id": "NOh24SMS6k4pzNv8Ds7KDg",
+          "rating": 4,
+          "review_count": 3188,
+          "categories": [
+            {
+              "title": "Cuban",
+              "alias": "cuban"
+            },
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "17 Prince St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.722998,
+            "longitude": -73.994171
+          }
+        },
+        {
+          "name": "Oaxaca Taqueria",
+          "id": "Q10FeFs1mtNchv1NbNcsLg",
+          "rating": 3.5,
+          "review_count": 134,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "152 E 33rd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10016"
+          },
+          "coordinates": {
+            "latitude": 40.7453117370605,
+            "longitude": -73.9795227050781
+          }
+        },
+        {
+          "name": "ABC Cocina",
+          "id": "9z2lUyfzZV8b2rkkiwSM4g",
+          "rating": 4,
+          "review_count": 927,
+          "categories": [
+            {
+              "title": "Tapas/Small Plates",
+              "alias": "tapasmallplates"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Spanish",
+              "alias": "spanish"
+            }
+          ],
+          "location": {
+            "address1": "38 E 19th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10003"
+          },
+          "coordinates": {
+            "latitude": 40.738005,
+            "longitude": -73.989251
+          }
+        },
+        {
+          "name": "El Parador Cafe",
+          "id": "BdHWUmVFuo1R8Lctv4K1Ow",
+          "rating": 4,
+          "review_count": 450,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Venues & Event Spaces",
+              "alias": "venues"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "325 E 34th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10016"
+          },
+          "coordinates": {
+            "latitude": 40.7444599,
+            "longitude": -73.97472
+          }
+        },
+        {
+          "name": "Javelina",
+          "id": "6ezrABEThm48qv1qj8_FVw",
+          "rating": 3.5,
+          "review_count": 120,
+          "categories": [
+            {
+              "title": "Tex-Mex",
+              "alias": "tex-mex"
+            },
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Southern",
+              "alias": "southern"
+            }
+          ],
+          "location": {
+            "address1": "1395 2nd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10021"
+          },
+          "coordinates": {
+            "latitude": 40.7694,
+            "longitude": -73.95816
+          }
+        },
+        {
+          "name": "La Contenta Oeste",
+          "id": "tvqtAjAyc7dplVVwhw3VZQ",
+          "rating": 4,
+          "review_count": 265,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "78 W 11th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.7352,
+            "longitude": -73.99808
+          }
+        },
+        {
+          "name": "Tacos Güey",
+          "id": "2zLgKnIQDmrJDb99jl9qRA",
+          "rating": 4.5,
+          "review_count": 35,
+          "categories": [
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Tacos",
+              "alias": "tacos"
+            }
+          ],
+          "location": {
+            "address1": "37 W 19th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.73997,
+            "longitude": -73.99323
+          }
+        },
+        {
+          "name": "Counter & Bodega",
+          "id": "ddFY9PpygYagv7-jVduB2Q",
+          "rating": 4.5,
+          "review_count": 137,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Tapas/Small Plates",
+              "alias": "tapasmallplates"
+            },
+            {
+              "title": "Puerto Rican",
+              "alias": "puertorican"
+            }
+          ],
+          "location": {
+            "address1": "216 7th Ave",
+            "address2": null,
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.74382731329241,
+            "longitude": -73.996272
+          }
+        },
+        {
+          "name": "Mole",
+          "id": "mVaslo987DCd3YC_0FtWxA",
+          "rating": 3.5,
+          "review_count": 457,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "57 Jane St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.73822,
+            "longitude": -74.00524
+          }
+        },
+        {
+          "name": "‘ritas",
+          "id": "uwDuBWMQcRmdyBpnK0LkTg",
+          "rating": 4,
+          "review_count": 42,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "756 9th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.7633331939511,
+            "longitude": -73.9887996051015
+          }
+        },
+        {
+          "name": "Amor Loco",
+          "id": "KDpFAWkLofuabBSpnNJY5A",
+          "rating": 4.5,
+          "review_count": 7,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "134 W 46th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.75797140479767,
+            "longitude": -73.98387478465575
+          }
+        },
+        {
+          "name": "La Diagonal",
+          "id": "8p1HTzXEcC3TCbLz59xMng",
+          "rating": 4,
+          "review_count": 235,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "New Mexican Cuisine",
+              "alias": "newmexican"
+            },
+            {
+              "title": "Tapas Bars",
+              "alias": "tapas"
+            }
+          ],
+          "location": {
+            "address1": "185 St Nicholas Ave",
+            "address2": null,
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10026"
+          },
+          "coordinates": {
+            "latitude": 40.8061,
+            "longitude": -73.95302
+          }
+        },
+        {
+          "name": "Gran Electrica",
+          "id": "f7g3GhoQs9nQVTJEL2p48Q",
+          "rating": 3.5,
+          "review_count": 505,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "5 Front St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11201"
+          },
+          "coordinates": {
+            "latitude": 40.7027,
+            "longitude": -73.99314
+          }
+        },
+        {
+          "name": "Agave",
+          "id": "QwL5LS436Xjo9MHFi2rc-g",
+          "rating": 3.5,
+          "review_count": 1327,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "140 7th Ave S",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.734767,
+            "longitude": -74.002415
+          }
+        },
+        {
+          "name": "Los Tacos No.1",
+          "id": "jnEv25Y2DosTq2sNnvmC9g",
+          "rating": 4.5,
+          "review_count": 3216,
+          "categories": [
+            {
+              "title": "Tacos",
+              "alias": "tacos"
+            }
+          ],
+          "location": {
+            "address1": "75 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.7425547,
+            "longitude": -74.0060838
+          }
+        },
+        {
+          "name": "Taqueria Coatzingo",
+          "id": "Yilk_Ucz4L6w9EmvAS2gHg",
+          "rating": 4,
+          "review_count": 457,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "7605 Roosevelt Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Jackson Heights",
+            "country": "US",
+            "postal_code": "11372"
+          },
+          "coordinates": {
+            "latitude": 40.7471912668812,
+            "longitude": -73.8895068500844
+          }
+        },
+        {
+          "name": "El Paso Taqueria",
+          "id": "xIi-TO8iDQCy1ZSHe11_Zw",
+          "rating": 3,
+          "review_count": 236,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "64 E 97th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10029"
+          },
+          "coordinates": {
+            "latitude": 40.787296295166,
+            "longitude": -73.9528121948242
+          }
+        },
+        {
+          "name": "Havana Central",
+          "id": "al9HKZ3kCJipAJW4uxzj4A",
+          "rating": 4,
+          "review_count": 2431,
+          "categories": [
+            {
+              "title": "Cuban",
+              "alias": "cuban"
+            },
+            {
+              "title": "Caterers",
+              "alias": "catering"
+            },
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            }
+          ],
+          "location": {
+            "address1": "151 W 46th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.75831,
+            "longitude": -73.98416
+          }
+        },
+        {
+          "name": "Tacos & Tequila",
+          "id": "oNgT6-rh-2TOeAF16AxXVw",
+          "rating": 4,
+          "review_count": 33,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "1742 2nd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10128"
+          },
+          "coordinates": {
+            "latitude": 40.780745,
+            "longitude": -73.9493227
+          }
+        },
+        {
+          "name": "La Esquina - UES",
+          "id": "FeSZi6LBCcAIipoSua6dXg",
+          "rating": 3.5,
+          "review_count": 178,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "1402 2nd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10021"
+          },
+          "coordinates": {
+            "latitude": 40.7693131667402,
+            "longitude": -73.9577519273524
+          }
+        },
+        {
+          "name": "Ollin Restaurant",
+          "id": "k3iUNUGsl-xpQ_EsOfTadA",
+          "rating": 4,
+          "review_count": 430,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "339 E 108th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10029"
+          },
+          "coordinates": {
+            "latitude": 40.7912288,
+            "longitude": -73.9395386
+          }
+        },
+        {
+          "name": "Maz Mezcal",
+          "id": "qr24KgWcZGUhKZIPyVMsNw",
+          "rating": 3.5,
+          "review_count": 388,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "316 E 86th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10028"
+          },
+          "coordinates": {
+            "latitude": 40.77741,
+            "longitude": -73.95103
+          }
+        },
+        {
+          "name": "El Vez",
+          "id": "rbAxZRKdMoMxeonDTmooFg",
+          "rating": 3.5,
+          "review_count": 706,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "259 Vesey St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10282"
+          },
+          "coordinates": {
+            "latitude": 40.7147356376792,
+            "longitude": -74.015635
+          }
+        },
+        {
+          "name": "Blue Maiz",
+          "id": "V9jFJfuK3FzWCJGoY15EgQ",
+          "rating": 4,
+          "review_count": 259,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "606 8th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10018"
+          },
+          "coordinates": {
+            "latitude": 40.75543,
+            "longitude": -73.99071
+          }
+        },
+        {
+          "name": "Hermana NYC",
+          "id": "WjI6oSe5IPHzr6b6fVoo6g",
+          "rating": 5,
+          "review_count": 4,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Jazz & Blues",
+              "alias": "jazzandblues"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "349 E 13th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10003"
+          },
+          "coordinates": {
+            "latitude": 40.73092,
+            "longitude": -73.98335
+          }
+        },
+        {
+          "name": "La Palapa",
+          "id": "frWu5KfSULdCHd0GmA-ytw",
+          "rating": 3.5,
+          "review_count": 719,
+          "categories": [
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Desserts",
+              "alias": "desserts"
+            }
+          ],
+          "location": {
+            "address1": "77 St Mark's Pl",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10003"
+          },
+          "coordinates": {
+            "latitude": 40.727969,
+            "longitude": -73.985604
+          }
+        },
+        {
+          "name": "Chano's Cantina",
+          "id": "jeWIYbgBho9vBDhc5S1xvg",
+          "rating": 4,
+          "review_count": 194,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "35-55 31st St",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11106"
+          },
+          "coordinates": {
+            "latitude": 40.756621,
+            "longitude": -73.929336
+          }
+        },
+        {
+          "name": "Hell's Kitchen",
+          "id": "ue-iu3tMiHAv7JR0YuhOww",
+          "rating": 4,
+          "review_count": 425,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "754 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.7638823425707,
+            "longitude": -73.9884334000586
+          }
+        },
+        {
+          "name": "The Calaveras",
+          "id": "xrKa2SpgWzPEEbji3Iw2DQ",
+          "rating": 4.5,
+          "review_count": 178,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Tapas/Small Plates",
+              "alias": "tapasmallplates"
+            }
+          ],
+          "location": {
+            "address1": "949 Columbus Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10025"
+          },
+          "coordinates": {
+            "latitude": 40.79956,
+            "longitude": -73.96241
+          }
+        },
+        {
+          "name": "The Burrito Box",
+          "id": "v4_89HfTm05NFTuukjsl_g",
+          "rating": 4,
+          "review_count": 905,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "885 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.76831,
+            "longitude": -73.98565
+          }
+        },
+        {
+          "name": "Top Quality",
+          "id": "NUdrJYB7GHRuwVVETSDIFQ",
+          "rating": 4.5,
+          "review_count": 100,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Cafes",
+              "alias": "cafes"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "10-29 44th Rd",
+            "address2": null,
+            "address3": "",
+            "city": "Long Island City",
+            "country": "US",
+            "postal_code": "11101"
+          },
+          "coordinates": {
+            "latitude": 40.74961,
+            "longitude": -73.94994
+          }
+        },
+        {
+          "name": "Claro",
+          "id": "FXgSgiLg6xgOO8zrG51mzg",
+          "rating": 4,
+          "review_count": 241,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "New Mexican Cuisine",
+              "alias": "newmexican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "284 3rd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11215"
+          },
+          "coordinates": {
+            "latitude": 40.6773587963142,
+            "longitude": -73.9861984489446
+          }
+        },
+        {
+          "name": "Mad Dog & Beans Mexican Cantina",
+          "id": "DTKKEogIt2wQm4UULYVGug",
+          "rating": 3.5,
+          "review_count": 987,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "83 Pearl St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10004"
+          },
+          "coordinates": {
+            "latitude": 40.704168,
+            "longitude": -74.010261
+          }
+        },
+        {
+          "name": "Oaxaca Taqueria",
+          "id": "hcI6TVxFyVNEPXg3rF1bQw",
+          "rating": 3.5,
+          "review_count": 129,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "405 W 44th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.7601356506348,
+            "longitude": -73.992057800293
+          }
+        },
+        {
+          "name": "Orale Mexican Kitchen",
+          "id": "4ttqjZMCsfz6X0kQ_KR0xQ",
+          "rating": 4,
+          "review_count": 1197,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "341 Grove St",
+            "address2": "",
+            "address3": "",
+            "city": "Jersey City",
+            "country": "US",
+            "postal_code": "07302"
+          },
+          "coordinates": {
+            "latitude": 40.720536,
+            "longitude": -74.042976
+          }
+        },
+        {
+          "name": "Zona Rosa",
+          "id": "7I-4qCgJq3n0yan1ChE-ew",
+          "rating": 3.5,
+          "review_count": 476,
+          "categories": [
+            {
+              "title": "Mexican",
+              "alias": "mexican"
+            }
+          ],
+          "location": {
+            "address1": "571 Lorimer St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11211"
+          },
+          "coordinates": {
+            "latitude": 40.7139388888686,
+            "longitude": -73.9494076703442
+          }
+        }
+      ]
+    }
+  }
+}

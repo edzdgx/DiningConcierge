@@ -1,0 +1,1181 @@
+{
+  "data": {
+    "search": {
+      "total": 240,
+      "business": [
+        {
+          "name": "Elm St Barbeque II",
+          "id": "hbGi-BJ1hsslF1XwZHttWA",
+          "rating": 4,
+          "review_count": 82,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            }
+          ],
+          "location": {
+            "address1": "103 Elm St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72894,
+            "longitude": -74.16629
+          }
+        },
+        {
+          "name": "Seabra Marisqueira",
+          "id": "tCoC4QReUsoZKZvc1Ni5DA",
+          "rating": 3.5,
+          "review_count": 553,
+          "categories": [
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            }
+          ],
+          "location": {
+            "address1": "87 Madison St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72991,
+            "longitude": -74.16067
+          }
+        },
+        {
+          "name": "Di Costa a Costa Vando Pastel",
+          "id": "hkdNtREW9h4NpCJ4QEn3lA",
+          "rating": 5,
+          "review_count": 2,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Specialty Food",
+              "alias": "gourmet"
+            }
+          ],
+          "location": {
+            "address1": "109 Wilson Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72484,
+            "longitude": -74.15235
+          }
+        },
+        {
+          "name": "Iberia Peninsula",
+          "id": "n9m1JjEzIskjcP8RPBymkg",
+          "rating": 3,
+          "review_count": 225,
+          "categories": [
+            {
+              "title": "Spanish",
+              "alias": "spanish"
+            },
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            }
+          ],
+          "location": {
+            "address1": "67 Ferry St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.7317472135387,
+            "longitude": -74.1626060783011
+          }
+        },
+        {
+          "name": "O Preguinho",
+          "id": "D4H-fuaKcqw3dm4Qm-fLew",
+          "rating": 4,
+          "review_count": 15,
+          "categories": [
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            }
+          ],
+          "location": {
+            "address1": "98 Elm Rd",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.720089,
+            "longitude": -74.1554489
+          }
+        },
+        {
+          "name": "Oakberry - Greenwich Village",
+          "id": "z0l0If3pOKjwK9DbSrdIZA",
+          "rating": 4.5,
+          "review_count": 38,
+          "categories": [
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Coffee & Tea",
+              "alias": "coffee"
+            },
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            }
+          ],
+          "location": {
+            "address1": "124 MacDougal St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.72992,
+            "longitude": -74.000282
+          }
+        },
+        {
+          "name": "SoBol Astoria",
+          "id": "p5wJXb5n4tnQL7HCTDEaJg",
+          "rating": 4.5,
+          "review_count": 68,
+          "categories": [
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            },
+            {
+              "title": "Cafes",
+              "alias": "cafes"
+            }
+          ],
+          "location": {
+            "address1": "35-04 Ditmars Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11105"
+          },
+          "coordinates": {
+            "latitude": 40.77455,
+            "longitude": -73.90894
+          }
+        },
+        {
+          "name": "Juice Vitality",
+          "id": "ytYVlCkrzcAxxUcbT4NTgA",
+          "rating": 5,
+          "review_count": 207,
+          "categories": [
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            },
+            {
+              "title": "Bubble Tea",
+              "alias": "bubbletea"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            }
+          ],
+          "location": {
+            "address1": "192 1st Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.72966,
+            "longitude": -73.9834
+          }
+        },
+        {
+          "name": "Hamburgao",
+          "id": "teFwNoqnZ26QWDOZaA0QCA",
+          "rating": 3,
+          "review_count": 117,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Burgers",
+              "alias": "burgers"
+            }
+          ],
+          "location": {
+            "address1": "282 Kearny Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Kearny",
+            "country": "US",
+            "postal_code": "07032"
+          },
+          "coordinates": {
+            "latitude": 40.76067,
+            "longitude": -74.15055
+          }
+        },
+        {
+          "name": "Playa Bowls",
+          "id": "c78DChkLL_qVFWpU-IRY_Q",
+          "rating": 4,
+          "review_count": 100,
+          "categories": [
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            }
+          ],
+          "location": {
+            "address1": "108 Macdougal St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.72945,
+            "longitude": -74.00064
+          }
+        },
+        {
+          "name": "Oakberry Acai Bowls & Smoothies",
+          "id": "H4FPLKg2WAyuO7XQgfcmFA",
+          "rating": 4,
+          "review_count": 55,
+          "categories": [
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            }
+          ],
+          "location": {
+            "address1": "1158 Broadway 27th St",
+            "address2": "Store E",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10001"
+          },
+          "coordinates": {
+            "latitude": 40.744585,
+            "longitude": -73.988633
+          }
+        },
+        {
+          "name": "Café Pão De Queijo",
+          "id": "gMoan6MR5inwoYaixhFU0A",
+          "rating": 3.5,
+          "review_count": 15,
+          "categories": [
+            {
+              "title": "Cafes",
+              "alias": "cafes"
+            },
+            {
+              "title": "Bakeries",
+              "alias": "bakeries"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "131 Wilson Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72407,
+            "longitude": -74.15147
+          }
+        },
+        {
+          "name": "Kasbah Grill & Sushi Restaurant",
+          "id": "tZinZdPH3p4BrJuuSYK2Kw",
+          "rating": 3,
+          "review_count": 85,
+          "categories": [
+            {
+              "title": "Kosher",
+              "alias": "kosher"
+            },
+            {
+              "title": "Sushi Bars",
+              "alias": "sushi"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "251 W 85th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10024"
+          },
+          "coordinates": {
+            "latitude": 40.78786,
+            "longitude": -73.97731
+          }
+        },
+        {
+          "name": "Sabor Latino",
+          "id": "BnWNRql7STXaFqbwmkJGZg",
+          "rating": 2,
+          "review_count": 10,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            }
+          ],
+          "location": {
+            "address1": "24 Wilson Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72711,
+            "longitude": -74.15532
+          }
+        },
+        {
+          "name": "Mega Pizza Patio",
+          "id": "Gh9mRNqyc5tsi-ajevBX0Q",
+          "rating": 5,
+          "review_count": 2,
+          "categories": [
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            }
+          ],
+          "location": {
+            "address1": "68 Wilson Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72593,
+            "longitude": -74.15392
+          }
+        },
+        {
+          "name": "Casanova Brazilian Barbecue",
+          "id": "Xahl5SPCVANSsufMuY8jlQ",
+          "rating": 2.5,
+          "review_count": 15,
+          "categories": [
+            {
+              "title": "Buffets",
+              "alias": "buffets"
+            },
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "70 Adams St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.729904,
+            "longitude": -74.1579081
+          }
+        },
+        {
+          "name": "La Cocina",
+          "id": "U2eO8yFSc9YTf_SPnog8cw",
+          "rating": 4.5,
+          "review_count": 150,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            }
+          ],
+          "location": {
+            "address1": "61 New St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07102"
+          },
+          "coordinates": {
+            "latitude": 40.7407808,
+            "longitude": -74.172243
+          }
+        },
+        {
+          "name": "Marmitaria Saudável",
+          "id": "2DrdQ-tgNrmET0Vm3RATvw",
+          "rating": 5,
+          "review_count": 1,
+          "categories": [
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "182 Wilson Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.7222,
+            "longitude": -74.15036
+          }
+        },
+        {
+          "name": "Juice Generation",
+          "id": "QEhQT0u5TJZpDng_7Im_1A",
+          "rating": 3.5,
+          "review_count": 119,
+          "categories": [
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Organic Stores",
+              "alias": "organic_stores"
+            }
+          ],
+          "location": {
+            "address1": "109 E 23rd St",
+            "address2": "",
+            "address3": "Btwn Park Ave & 3rd Ave",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10010"
+          },
+          "coordinates": {
+            "latitude": 40.7398807,
+            "longitude": -73.9856276
+          }
+        },
+        {
+          "name": "Fire Pit BBQ",
+          "id": "9g1XNm6G6KohCcoFMGL_CQ",
+          "rating": 3,
+          "review_count": 103,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            }
+          ],
+          "location": {
+            "address1": "300 Belleville Tpke",
+            "address2": "",
+            "address3": "",
+            "city": "Kearny",
+            "country": "US",
+            "postal_code": "07032"
+          },
+          "coordinates": {
+            "latitude": 40.779899597168,
+            "longitude": -74.1353759765625
+          }
+        },
+        {
+          "name": "Frutta Bowls",
+          "id": "bB8_Yiz2wNwAkupTqtV9YA",
+          "rating": 4.5,
+          "review_count": 16,
+          "categories": [
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            }
+          ],
+          "location": {
+            "address1": "100 Town Square Pl",
+            "address2": "",
+            "address3": null,
+            "city": "Jersey City",
+            "country": "US",
+            "postal_code": "07310"
+          },
+          "coordinates": {
+            "latitude": 40.72691625911491,
+            "longitude": -74.03353330453199
+          }
+        },
+        {
+          "name": "Tejo Restaurant & Bar",
+          "id": "AMXP2BVAR0PA-t8raX4xCw",
+          "rating": 3,
+          "review_count": 53,
+          "categories": [
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            },
+            {
+              "title": "Spanish",
+              "alias": "spanish"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "318 Belleville Tpke",
+            "address2": "",
+            "address3": null,
+            "city": "North Arlington",
+            "country": "US",
+            "postal_code": "07031"
+          },
+          "coordinates": {
+            "latitude": 40.7802182317327,
+            "longitude": -74.1351014172554
+          }
+        },
+        {
+          "name": "Ferry St. Barbecue",
+          "id": "8eDlMaNQoYUWWCc7q2nQwQ",
+          "rating": 3.5,
+          "review_count": 259,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            },
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            }
+          ],
+          "location": {
+            "address1": "89 Ferry St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.73091,
+            "longitude": -74.16154
+          }
+        },
+        {
+          "name": "Nutripan 2",
+          "id": "4Be4_U3VoC65FKMH8hKtbw",
+          "rating": 4,
+          "review_count": 39,
+          "categories": [
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Colombian",
+              "alias": "colombian"
+            }
+          ],
+          "location": {
+            "address1": "88-44 Sutphin Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Jamaica",
+            "country": "US",
+            "postal_code": "11435"
+          },
+          "coordinates": {
+            "latitude": 40.7039126364418,
+            "longitude": -73.8087243365695
+          }
+        },
+        {
+          "name": "Iberia Tavern & Restaurant",
+          "id": "FVTDv0sQrZkXcqWnxZE9ow",
+          "rating": 3,
+          "review_count": 341,
+          "categories": [
+            {
+              "title": "Spanish",
+              "alias": "spanish"
+            },
+            {
+              "title": "Basque",
+              "alias": "basque"
+            },
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            }
+          ],
+          "location": {
+            "address1": "82 Ferry St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.73152,
+            "longitude": -74.16161
+          }
+        },
+        {
+          "name": "Pour Abbey's Bar & Grill",
+          "id": "OTowPqwNchCxVEYhOquFgg",
+          "rating": 4,
+          "review_count": 24,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            }
+          ],
+          "location": {
+            "address1": "107 Hawkins St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72809,
+            "longitude": -74.13913
+          }
+        },
+        {
+          "name": "Vinnie's All-Star Bar & Grill",
+          "id": "aX_QoLQab0UXhI_TtAv0Mg",
+          "rating": 5,
+          "review_count": 38,
+          "categories": [
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            },
+            {
+              "title": "Sports Bars",
+              "alias": "sportsbars"
+            },
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            }
+          ],
+          "location": {
+            "address1": "215 Manor Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Harrison",
+            "country": "US",
+            "postal_code": "07029"
+          },
+          "coordinates": {
+            "latitude": 40.745587,
+            "longitude": -74.148878
+          }
+        },
+        {
+          "name": "Agavi Organic Juice Bar",
+          "id": "6NjflOTBzjVv-cp6CX3DPA",
+          "rating": 4,
+          "review_count": 154,
+          "categories": [
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            }
+          ],
+          "location": {
+            "address1": "72 E 7th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10003"
+          },
+          "coordinates": {
+            "latitude": 40.72729,
+            "longitude": -73.98672
+          }
+        },
+        {
+          "name": "Cool Fresh Juice Bar",
+          "id": "gp82E8zFO2ftc7_VASAADw",
+          "rating": 4.5,
+          "review_count": 39,
+          "categories": [
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Bubble Tea",
+              "alias": "bubbletea"
+            }
+          ],
+          "location": {
+            "address1": "333 6th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.73155,
+            "longitude": -74.0013
+          }
+        },
+        {
+          "name": "Xcape Cafe",
+          "id": "T9ER8PLH85H-nUQKGHn1tg",
+          "rating": 3.5,
+          "review_count": 8,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Karaoke",
+              "alias": "karaoke"
+            }
+          ],
+          "location": {
+            "address1": "97 Lang St",
+            "address2": null,
+            "address3": null,
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.7250818610191,
+            "longitude": -74.1535855829716
+          }
+        },
+        {
+          "name": "Arepas Burger",
+          "id": "cjO6u4raBl9TY8kDZKgmcA",
+          "rating": 3.5,
+          "review_count": 74,
+          "categories": [
+            {
+              "title": "Burgers",
+              "alias": "burgers"
+            },
+            {
+              "title": "Venezuelan",
+              "alias": "venezuelan"
+            }
+          ],
+          "location": {
+            "address1": "81-05 Northern Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Jackson Heights",
+            "country": "US",
+            "postal_code": "11372"
+          },
+          "coordinates": {
+            "latitude": 40.75565898269659,
+            "longitude": -73.88605849999999
+          }
+        },
+        {
+          "name": "Pulaski Barbeque",
+          "id": "rEGup-WD43G2mhZOX83M5A",
+          "rating": 4.5,
+          "review_count": 39,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            },
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            }
+          ],
+          "location": {
+            "address1": "384 Walnut St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72512,
+            "longitude": -74.157249
+          }
+        },
+        {
+          "name": "Wow Cafe & Restaurant",
+          "id": "TGT4gPmF4Elwm2QdcClkMA",
+          "rating": 5,
+          "review_count": 1,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Dominican",
+              "alias": "dominican"
+            }
+          ],
+          "location": {
+            "address1": "147 Kearny Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Kearny",
+            "country": "US",
+            "postal_code": "07032"
+          },
+          "coordinates": {
+            "latitude": 40.75711,
+            "longitude": -74.15415
+          }
+        },
+        {
+          "name": "The Buffet",
+          "id": "w2oSwwvOf-DBnEUumq_TIA",
+          "rating": 3.5,
+          "review_count": 801,
+          "categories": [
+            {
+              "title": "Buffets",
+              "alias": "buffets"
+            },
+            {
+              "title": "Sushi Bars",
+              "alias": "sushi"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            }
+          ],
+          "location": {
+            "address1": "20-07 127th St",
+            "address2": "Fl 4",
+            "address3": "",
+            "city": "Flushing",
+            "country": "US",
+            "postal_code": "11356"
+          },
+          "coordinates": {
+            "latitude": 40.78139892324089,
+            "longitude": -73.8412969
+          }
+        },
+        {
+          "name": "Picnic Portuguese BBQ & Grill",
+          "id": "g9ERuaGYe_wVA-FTmnJPSg",
+          "rating": 3.5,
+          "review_count": 83,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            },
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            }
+          ],
+          "location": {
+            "address1": "233 Ferry St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.7281465,
+            "longitude": -74.1545218
+          }
+        },
+        {
+          "name": "Coimbra Bar & Restaurant",
+          "id": "c4vTIL-eu87LHI2oJZaytQ",
+          "rating": 3.5,
+          "review_count": 69,
+          "categories": [
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "637 Market St",
+            "address2": "Ste 641",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.7309532165527,
+            "longitude": -74.1499862670898
+          }
+        },
+        {
+          "name": "Salgaderia Maranato",
+          "id": "UNH0aHSR-JMJIt-0xelZjg",
+          "rating": 2.5,
+          "review_count": 10,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Bakeries",
+              "alias": "bakeries"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            }
+          ],
+          "location": {
+            "address1": "99 Pulaski St",
+            "address2": null,
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72271,
+            "longitude": -74.15883
+          }
+        },
+        {
+          "name": "Aged Restaurant and Bar",
+          "id": "0jT5rHUoc_N10zX7w1o_og",
+          "rating": 3,
+          "review_count": 913,
+          "categories": [
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            }
+          ],
+          "location": {
+            "address1": "107-02 70th Rd",
+            "address2": null,
+            "address3": "",
+            "city": "Forest Hills",
+            "country": "US",
+            "postal_code": "11375"
+          },
+          "coordinates": {
+            "latitude": 40.720731,
+            "longitude": -73.845597
+          }
+        },
+        {
+          "name": "Fitrition",
+          "id": "an41Ib24Q2HTiY6J9SkwYA",
+          "rating": 3.5,
+          "review_count": 70,
+          "categories": [
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Vitamins & Supplements",
+              "alias": "vitaminssupplements"
+            }
+          ],
+          "location": {
+            "address1": "30-09 Steinway St",
+            "address2": null,
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11103"
+          },
+          "coordinates": {
+            "latitude": 40.763574357045,
+            "longitude": -73.9151938226194
+          }
+        },
+        {
+          "name": "Juice N’ Shake",
+          "id": "w78drDqPv8vbNS7dOvtI3g",
+          "rating": 4.5,
+          "review_count": 14,
+          "categories": [
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            }
+          ],
+          "location": {
+            "address1": "78-14 Roosevelt Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Jackson Heights",
+            "country": "US",
+            "postal_code": "11372"
+          },
+          "coordinates": {
+            "latitude": 40.747079,
+            "longitude": -73.887243
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1477 @@
+{
+  "data": {
+    "search": {
+      "total": 240,
+      "business": [
+        {
+          "name": "Berimbau Brazilian Kitchen",
+          "id": "YPFME0go5UzDo7_q3NN2Mg",
+          "rating": 4.5,
+          "review_count": 116,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "43 Carmine St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.73007,
+            "longitude": -74.00366
+          }
+        },
+        {
+          "name": "Fogo de Chao Brazilian Steakhouse",
+          "id": "7B2XMvV5uGuKyl19-HTSvg",
+          "rating": 4,
+          "review_count": 1349,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "40 W 53rd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.7610765,
+            "longitude": -73.9777711
+          }
+        },
+        {
+          "name": "Samba Kitchen",
+          "id": "aJqjC4uAo6vhOpsVNCiMDA",
+          "rating": 4.5,
+          "review_count": 461,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            }
+          ],
+          "location": {
+            "address1": "457 W 50th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.764666,
+            "longitude": -73.9912643
+          }
+        },
+        {
+          "name": "Emporium Brasil",
+          "id": "53zd9Zi8EKMpLd6OXNm8Mw",
+          "rating": 4,
+          "review_count": 268,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "15 W 46th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.75653,
+            "longitude": -73.97989
+          }
+        },
+        {
+          "name": "Brazeiro Churrascaria",
+          "id": "eZRCx_bsjOsrwsfrAPYEew",
+          "rating": 4,
+          "review_count": 357,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "7420 Broadway Ave",
+            "address2": "",
+            "address3": "",
+            "city": "North Bergen",
+            "country": "US",
+            "postal_code": "07047"
+          },
+          "coordinates": {
+            "latitude": 40.796315,
+            "longitude": -74.002996
+          }
+        },
+        {
+          "name": "Churrascaria Plataforma",
+          "id": "VnjcxOUuZAeJMiDIU-7hUQ",
+          "rating": 4,
+          "review_count": 1386,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "316 W 49th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.76202,
+            "longitude": -73.98765
+          }
+        },
+        {
+          "name": "Via Brasil Restaurant",
+          "id": "Hc2MuvFClsTlXr-MivnLzQ",
+          "rating": 4,
+          "review_count": 199,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "34 W 46th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.75665,
+            "longitude": -73.98072
+          }
+        },
+        {
+          "name": "Ipanema Restaurant",
+          "id": "-udRA8VRsQJoIaT-kxCrGg",
+          "rating": 4,
+          "review_count": 1380,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "3 West 36th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10018"
+          },
+          "coordinates": {
+            "latitude": 40.75005,
+            "longitude": -73.98416
+          }
+        },
+        {
+          "name": "Casa Restaurant",
+          "id": "VjojBUeQ2ph1lrOU74YqNw",
+          "rating": 4,
+          "review_count": 268,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "72 Bedford St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.7314969,
+            "longitude": -74.0047416
+          }
+        },
+        {
+          "name": "Santo Bruklin",
+          "id": "6xL5htjdKmPmM-Y9A2n2Pg",
+          "rating": 4.5,
+          "review_count": 166,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "548 Court St",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11231"
+          },
+          "coordinates": {
+            "latitude": 40.67509,
+            "longitude": -73.99956
+          }
+        },
+        {
+          "name": "Villa Brazil Cafe Grill",
+          "id": "tjstlcFtOiXnUU1MAG1uqg",
+          "rating": 4.5,
+          "review_count": 337,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Buffets",
+              "alias": "buffets"
+            },
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            }
+          ],
+          "location": {
+            "address1": "43-16 34th Ave",
+            "address2": "",
+            "address3": "Ste A 2",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11101"
+          },
+          "coordinates": {
+            "latitude": 40.7552896059395,
+            "longitude": -73.9180071651936
+          }
+        },
+        {
+          "name": "Beco",
+          "id": "MU9gYp1tdK4iB0E2blZUVQ",
+          "rating": 4,
+          "review_count": 356,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "45 Richardson St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11211"
+          },
+          "coordinates": {
+            "latitude": 40.71837,
+            "longitude": -73.95045
+          }
+        },
+        {
+          "name": "Brazeiro Churrascaria",
+          "id": "MMTk8TONDySpy2S_e4dclA",
+          "rating": 4,
+          "review_count": 154,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "103 60th St",
+            "address2": null,
+            "address3": "",
+            "city": "West New York",
+            "country": "US",
+            "postal_code": "07093"
+          },
+          "coordinates": {
+            "latitude": 40.7855359,
+            "longitude": -74.0094707
+          }
+        },
+        {
+          "name": "Favela Cubana",
+          "id": "hJrZIHNRVUuC_PXAORxj9g",
+          "rating": 4,
+          "review_count": 1137,
+          "categories": [
+            {
+              "title": "Cuban",
+              "alias": "cuban"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "543 LaGuardia Pl",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.7284702112794,
+            "longitude": -73.9979839324952
+          }
+        },
+        {
+          "name": "Pao De Queijo",
+          "id": "PcXQm5RXbNZP2GQKHu0QNQ",
+          "rating": 4,
+          "review_count": 369,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Burgers",
+              "alias": "burgers"
+            }
+          ],
+          "location": {
+            "address1": "31-90 30th St",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11106"
+          },
+          "coordinates": {
+            "latitude": 40.762659,
+            "longitude": -73.9261018
+          }
+        },
+        {
+          "name": "Rainhas Churrascaria",
+          "id": "hWmzrNyhPO3phBstCynSvw",
+          "rating": 4,
+          "review_count": 898,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "108-01 Northern Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Corona",
+            "country": "US",
+            "postal_code": "11368"
+          },
+          "coordinates": {
+            "latitude": 40.75824,
+            "longitude": -73.86068
+          }
+        },
+        {
+          "name": "Miss Favela",
+          "id": "0O3L9qPA_Q7N7jOnY6gu_Q",
+          "rating": 3,
+          "review_count": 492,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Diners",
+              "alias": "diners"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "57 S 5th St",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11249"
+          },
+          "coordinates": {
+            "latitude": 40.712246483644,
+            "longitude": -73.9661882787452
+          }
+        },
+        {
+          "name": "Nelore Grill",
+          "id": "UPvjnL4Dpk83uaTAKKGMeQ",
+          "rating": 4.5,
+          "review_count": 7,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "744 9th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.76359296851853,
+            "longitude": -73.98868971981106
+          }
+        },
+        {
+          "name": "Favela Grill",
+          "id": "5iciHq6BV3hOKpxTXKEzVA",
+          "rating": 4,
+          "review_count": 260,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "33-18 28th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11103"
+          },
+          "coordinates": {
+            "latitude": 40.7672,
+            "longitude": -73.91799
+          }
+        },
+        {
+          "name": "Beija Flor",
+          "id": "JboVlCv3LtJt8hA-yI9U0A",
+          "rating": 4,
+          "review_count": 251,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "38-02 29th St",
+            "address2": "",
+            "address3": "",
+            "city": "Long Island City",
+            "country": "US",
+            "postal_code": "11101"
+          },
+          "coordinates": {
+            "latitude": 40.754601940029,
+            "longitude": -73.9336216385827
+          }
+        },
+        {
+          "name": "Copacabana",
+          "id": "oLcO1966IMx-Juv69hn6Cw",
+          "rating": 4,
+          "review_count": 242,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Buffets",
+              "alias": "buffets"
+            }
+          ],
+          "location": {
+            "address1": "31-13 36th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11106"
+          },
+          "coordinates": {
+            "latitude": 40.7565371,
+            "longitude": -73.9293383
+          }
+        },
+        {
+          "name": "Brazil Grill",
+          "id": "nXdXmNkHnqLJ3M9itMZ0Iw",
+          "rating": 2.5,
+          "review_count": 276,
+          "categories": [
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "787 8th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.76107,
+            "longitude": -73.98737
+          }
+        },
+        {
+          "name": "La Pulperia Hell's Kitchen",
+          "id": "WqjqHMozyW42XLTtLnKGag",
+          "rating": 4,
+          "review_count": 807,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "623 9th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.7599217,
+            "longitude": -73.991841
+          }
+        },
+        {
+          "name": "Havana Central",
+          "id": "al9HKZ3kCJipAJW4uxzj4A",
+          "rating": 4,
+          "review_count": 2431,
+          "categories": [
+            {
+              "title": "Cuban",
+              "alias": "cuban"
+            },
+            {
+              "title": "Caterers",
+              "alias": "catering"
+            },
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            }
+          ],
+          "location": {
+            "address1": "151 W 46th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.75831,
+            "longitude": -73.98416
+          }
+        },
+        {
+          "name": "Cafe Patoro",
+          "id": "wWhZvkaFrntlSf1CWvD1Zw",
+          "rating": 4.5,
+          "review_count": 182,
+          "categories": [
+            {
+              "title": "Bakeries",
+              "alias": "bakeries"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Coffee & Tea",
+              "alias": "coffee"
+            }
+          ],
+          "location": {
+            "address1": "223 Front St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10038"
+          },
+          "coordinates": {
+            "latitude": 40.7072720974983,
+            "longitude": -74.0023160353303
+          }
+        },
+        {
+          "name": "Bar Goyana",
+          "id": "gIr4w8de7_HjhseIazHnMA",
+          "rating": 5,
+          "review_count": 6,
+          "categories": [
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Belgian",
+              "alias": "belgian"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "177 E 100th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10029"
+          },
+          "coordinates": {
+            "latitude": 40.7884,
+            "longitude": -73.94876
+          }
+        },
+        {
+          "name": "Gomi Korean Wine Bar",
+          "id": "1ozuYD1HTa4u2F_NR9uUJg",
+          "rating": 4.5,
+          "review_count": 142,
+          "categories": [
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Korean",
+              "alias": "korean"
+            }
+          ],
+          "location": {
+            "address1": "186 Ave A",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.72886,
+            "longitude": -73.9813
+          }
+        },
+        {
+          "name": "Beach Bistro 96",
+          "id": "u-Ey3zXzFKX7ORzXuJpizQ",
+          "rating": 5,
+          "review_count": 6,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Salad",
+              "alias": "salad"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            }
+          ],
+          "location": {
+            "address1": "231 W 39th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10018"
+          },
+          "coordinates": {
+            "latitude": 40.75489,
+            "longitude": -73.9896181225777
+          }
+        },
+        {
+          "name": "Libertador Steakhouse - New York",
+          "id": "1bjUc14khru1HXuMUe5-5w",
+          "rating": 3.5,
+          "review_count": 456,
+          "categories": [
+            {
+              "title": "Argentine",
+              "alias": "argentine"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "1725 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10128"
+          },
+          "coordinates": {
+            "latitude": 40.78004,
+            "longitude": -73.95057
+          }
+        },
+        {
+          "name": "Petisco Brazuca",
+          "id": "ADul90IX8-TdDaciLIS6pA",
+          "rating": 4.5,
+          "review_count": 60,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "833 Dekalb Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "11221"
+          },
+          "coordinates": {
+            "latitude": 40.6924853,
+            "longitude": -73.9431117
+          }
+        },
+        {
+          "name": "Aroma Brazil Restaurant",
+          "id": "1-4W4i1fj9rp0Blrg0Q1zg",
+          "rating": 4.5,
+          "review_count": 133,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Buffets",
+              "alias": "buffets"
+            }
+          ],
+          "location": {
+            "address1": "75-13 Roosevelt Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Jackson Heights",
+            "country": "US",
+            "postal_code": "11372"
+          },
+          "coordinates": {
+            "latitude": 40.7472120454333,
+            "longitude": -73.8900118
+          }
+        },
+        {
+          "name": "Empanada Mama - Hell's Kitchen",
+          "id": "LvzN8TrUGJRj_UkJV0cAtQ",
+          "rating": 4,
+          "review_count": 2647,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Food Delivery Services",
+              "alias": "fooddeliveryservices"
+            },
+            {
+              "title": "Burgers",
+              "alias": "burgers"
+            }
+          ],
+          "location": {
+            "address1": "765 9th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.76441,
+            "longitude": -73.9885
+          }
+        },
+        {
+          "name": "Blend",
+          "id": "wTCR-EUTLX4UoPUPdxWVJg",
+          "rating": 4,
+          "review_count": 900,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            }
+          ],
+          "location": {
+            "address1": "4704 Vernon Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Long Island City",
+            "country": "US",
+            "postal_code": "11101"
+          },
+          "coordinates": {
+            "latitude": 40.7454187160279,
+            "longitude": -73.9533804030555
+          }
+        },
+        {
+          "name": "Calle Ocho",
+          "id": "H9GD7km7riFooM0FkdwOPg",
+          "rating": 4,
+          "review_count": 2557,
+          "categories": [
+            {
+              "title": "Cuban",
+              "alias": "cuban"
+            },
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            }
+          ],
+          "location": {
+            "address1": "2756 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10025"
+          },
+          "coordinates": {
+            "latitude": 40.801264,
+            "longitude": -73.967663
+          }
+        },
+        {
+          "name": "Kilo Astoria",
+          "id": "Q5XEIsjofh-OQy-LzOdRCA",
+          "rating": 4.5,
+          "review_count": 122,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "31-27 Ditmars Blvd",
+            "address2": "",
+            "address3": null,
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11105"
+          },
+          "coordinates": {
+            "latitude": 40.775567,
+            "longitude": -73.909654
+          }
+        },
+        {
+          "name": "Cafe Patoro",
+          "id": "GpvBxFufgkOusty9wM_Q4Q",
+          "rating": 4,
+          "review_count": 3,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Desserts",
+              "alias": "desserts"
+            },
+            {
+              "title": "Coffee & Tea",
+              "alias": "coffee"
+            }
+          ],
+          "location": {
+            "address1": "152 W 52nd St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.7618468717871,
+            "longitude": -73.9819339290261
+          }
+        },
+        {
+          "name": "Yuca Bar",
+          "id": "AgAkUVLN_axMY-bzbNCfCw",
+          "rating": 4,
+          "review_count": 1877,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Tapas Bars",
+              "alias": "tapas"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "111 Avenue A",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.7262,
+            "longitude": -73.9836
+          }
+        },
+        {
+          "name": "K Rico Steakhouse",
+          "id": "sGqKDtizXj3tg9jnAc9FeQ",
+          "rating": 4.5,
+          "review_count": 641,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "Venues & Event Spaces",
+              "alias": "venues"
+            }
+          ],
+          "location": {
+            "address1": "772 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.764345,
+            "longitude": -73.98798
+          }
+        },
+        {
+          "name": "Buenos Aires",
+          "id": "ZgIfySJ3cnB1svoyJAiCzg",
+          "rating": 4,
+          "review_count": 586,
+          "categories": [
+            {
+              "title": "Argentine",
+              "alias": "argentine"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "513 E 6th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.7253150939941,
+            "longitude": -73.983039855957
+          }
+        },
+        {
+          "name": "Pio Pio 8",
+          "id": "OwV-MtDBC2H08rVcBqP2mA",
+          "rating": 4,
+          "review_count": 2382,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Peruvian",
+              "alias": "peruvian"
+            }
+          ],
+          "location": {
+            "address1": "604 10th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.760506289326,
+            "longitude": -73.994564488901
+          }
+        },
+        {
+          "name": "Brazilian Churrasqueria",
+          "id": "wEG1-_lPprofQcOB5DQvRg",
+          "rating": 3,
+          "review_count": 19,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "6910 Bergenline Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Guttenberg",
+            "country": "US",
+            "postal_code": "07093"
+          },
+          "coordinates": {
+            "latitude": 40.795806,
+            "longitude": -74.010719
+          }
+        },
+        {
+          "name": "Havana NY",
+          "id": "tJHmKLn1lWpaPuZTZrDgsA",
+          "rating": 4,
+          "review_count": 306,
+          "categories": [
+            {
+              "title": "Cuban",
+              "alias": "cuban"
+            },
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Venues & Event Spaces",
+              "alias": "venues"
+            }
+          ],
+          "location": {
+            "address1": "58 W 38th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10018"
+          },
+          "coordinates": {
+            "latitude": 40.75189,
+            "longitude": -73.98517
+          }
+        },
+        {
+          "name": "Tabaré",
+          "id": "4axlhxyN2bKuRWfnY2IhuQ",
+          "rating": 4,
+          "review_count": 670,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            }
+          ],
+          "location": {
+            "address1": "221 S 1st St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11211"
+          },
+          "coordinates": {
+            "latitude": 40.713046,
+            "longitude": -73.958968
+          }
+        },
+        {
+          "name": "Christo's Steak House",
+          "id": "HbRpu_sO3ouX0a9CiRTXEA",
+          "rating": 4,
+          "review_count": 417,
+          "categories": [
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "Greek",
+              "alias": "greek"
+            }
+          ],
+          "location": {
+            "address1": "4108 23rd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11105"
+          },
+          "coordinates": {
+            "latitude": 40.770312,
+            "longitude": -73.9073979
+          }
+        },
+        {
+          "name": "Choripan Rodizio Too",
+          "id": "BK2g4QIC1oveDaGf660_lA",
+          "rating": 4.5,
+          "review_count": 388,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            },
+            {
+              "title": "Argentine",
+              "alias": "argentine"
+            },
+            {
+              "title": "Sandwiches",
+              "alias": "sandwiches"
+            }
+          ],
+          "location": {
+            "address1": "10 Sussex St",
+            "address2": "",
+            "address3": null,
+            "city": "Hackensack",
+            "country": "US",
+            "postal_code": "07601"
+          },
+          "coordinates": {
+            "latitude": 40.879572,
+            "longitude": -74.0447533569809
+          }
+        },
+        {
+          "name": "Balvanera",
+          "id": "e_EQojNWskn_hFbKA_UZ-Q",
+          "rating": 4.5,
+          "review_count": 274,
+          "categories": [
+            {
+              "title": "Argentine",
+              "alias": "argentine"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "152 Stanton St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10002"
+          },
+          "coordinates": {
+            "latitude": 40.72063,
+            "longitude": -73.98539
+          }
+        },
+        {
+          "name": "Rio Market",
+          "id": "UaibzB9ZO7TvFEpDzLjOlg",
+          "rating": 3.5,
+          "review_count": 87,
+          "categories": [
+            {
+              "title": "Grocery",
+              "alias": "grocery"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "32-15 36th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11106"
+          },
+          "coordinates": {
+            "latitude": 40.75609,
+            "longitude": -73.92828
+          }
+        },
+        {
+          "name": "Pio Pio 3",
+          "id": "jKaR8TTkLBAFmMIsKU786g",
+          "rating": 4,
+          "review_count": 774,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Peruvian",
+              "alias": "peruvian"
+            }
+          ],
+          "location": {
+            "address1": "1746 First Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10128"
+          },
+          "coordinates": {
+            "latitude": 40.77959,
+            "longitude": -73.947
+          }
+        },
+        {
+          "name": "Bahia Restaurant",
+          "id": "1L5gZecCOPs-hoIjms-JxQ",
+          "rating": 4,
+          "review_count": 254,
+          "categories": [
+            {
+              "title": "Salvadoran",
+              "alias": "salvadoran"
+            }
+          ],
+          "location": {
+            "address1": "690 Grand St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11211"
+          },
+          "coordinates": {
+            "latitude": 40.7112998962402,
+            "longitude": -73.9449462890625
+          }
+        },
+        {
+          "name": "Rice X Beans",
+          "id": "RC_1OpTo45TVewr5m7jgBQ",
+          "rating": 4.5,
+          "review_count": 50,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "3086  51st St",
+            "address2": "",
+            "address3": null,
+            "city": "Woodside",
+            "country": "US",
+            "postal_code": "11377"
+          },
+          "coordinates": {
+            "latitude": 40.757503,
+            "longitude": -73.907773
+          }
+        }
+      ]
+    }
+  }
+}

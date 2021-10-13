@@ -1,0 +1,1205 @@
+{
+  "data": {
+    "search": {
+      "total": 240,
+      "business": [
+        {
+          "name": "Bello's Pub & Grill",
+          "id": "Yfz28vZWjNIUi_8chtaNcw",
+          "rating": 4.5,
+          "review_count": 181,
+          "categories": [
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            },
+            {
+              "title": "Gastropubs",
+              "alias": "gastropubs"
+            }
+          ],
+          "location": {
+            "address1": "376 Market St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.7334,
+            "longitude": -74.16351
+          }
+        },
+        {
+          "name": "Woodrow's",
+          "id": "j8DFd-bxnvM_UfHnDLIA0g",
+          "rating": 4,
+          "review_count": 337,
+          "categories": [
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            },
+            {
+              "title": "Pubs",
+              "alias": "pubs"
+            }
+          ],
+          "location": {
+            "address1": "43 Murray St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10007"
+          },
+          "coordinates": {
+            "latitude": 40.7141113,
+            "longitude": -74.009201
+          }
+        },
+        {
+          "name": "Union Hall",
+          "id": "noujMiOizbAWyDw8LbiM8Q",
+          "rating": 4,
+          "review_count": 647,
+          "categories": [
+            {
+              "title": "Pubs",
+              "alias": "pubs"
+            },
+            {
+              "title": "Performing Arts",
+              "alias": "theater"
+            },
+            {
+              "title": "Bocce Ball",
+              "alias": "bocceball"
+            }
+          ],
+          "location": {
+            "address1": "702 Union St",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11215"
+          },
+          "coordinates": {
+            "latitude": 40.67612,
+            "longitude": -73.98005
+          }
+        },
+        {
+          "name": "The Thirsty Koala",
+          "id": "iNiq1vgWpEa48jlPAce8wQ",
+          "rating": 4.5,
+          "review_count": 1141,
+          "categories": [
+            {
+              "title": "Australian",
+              "alias": "australian"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "35-12 Ditmars Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11105"
+          },
+          "coordinates": {
+            "latitude": 40.774416,
+            "longitude": -73.908739
+          }
+        },
+        {
+          "name": "Death Ave",
+          "id": "PHSsvGDW6Rh2pGWEDTrDew",
+          "rating": 4,
+          "review_count": 598,
+          "categories": [
+            {
+              "title": "Greek",
+              "alias": "greek"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "Gastropubs",
+              "alias": "gastropubs"
+            }
+          ],
+          "location": {
+            "address1": "315 10th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10001"
+          },
+          "coordinates": {
+            "latitude": 40.75105092190377,
+            "longitude": -74.00194808204913
+          }
+        },
+        {
+          "name": "Clover Club",
+          "id": "4MqJOLaeqCgBFQmMFPfe3g",
+          "rating": 4,
+          "review_count": 796,
+          "categories": [
+            {
+              "title": "Lounges",
+              "alias": "lounges"
+            },
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "210 Smith St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11201"
+          },
+          "coordinates": {
+            "latitude": 40.6846046447754,
+            "longitude": -73.9921875
+          }
+        },
+        {
+          "name": "Bua",
+          "id": "n8p5g3-Fu1RBKx35QhiaXg",
+          "rating": 4,
+          "review_count": 531,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "Gastropubs",
+              "alias": "gastropubs"
+            }
+          ],
+          "location": {
+            "address1": "122 St Marks Pl",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.7268537,
+            "longitude": -73.9838067
+          }
+        },
+        {
+          "name": "Drift In",
+          "id": "bn3qRcfBg0YG1-zIR1hscA",
+          "rating": 4,
+          "review_count": 83,
+          "categories": [
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "389 W St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.7329109,
+            "longitude": -74.0106435
+          }
+        },
+        {
+          "name": "Terrace Fish & Chips",
+          "id": "_YmyHYuM5On1zW17aOf3ZA",
+          "rating": 4,
+          "review_count": 101,
+          "categories": [
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Fish & Chips",
+              "alias": "fishnchips"
+            }
+          ],
+          "location": {
+            "address1": "77 Pearl St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10004"
+          },
+          "coordinates": {
+            "latitude": 40.704044,
+            "longitude": -74.01049
+          }
+        },
+        {
+          "name": "Little Frog Bistro & Bar",
+          "id": "ZWPgzW0qqtksyI3GxCPM-Q",
+          "rating": 4,
+          "review_count": 227,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "322 E 86th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10028"
+          },
+          "coordinates": {
+            "latitude": 40.77722,
+            "longitude": -73.95092
+          }
+        },
+        {
+          "name": "The Ryerson",
+          "id": "E8gpCgCVaO2hNEPTrh4n2A",
+          "rating": 4.5,
+          "review_count": 91,
+          "categories": [
+            {
+              "title": "Southern",
+              "alias": "southern"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "698 Nostrand Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11216"
+          },
+          "coordinates": {
+            "latitude": 40.67478,
+            "longitude": -73.95018
+          }
+        },
+        {
+          "name": "Crave Fishbar",
+          "id": "0LKC_M1bumyOcgWgbH9OdQ",
+          "rating": 4,
+          "review_count": 303,
+          "categories": [
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Desserts",
+              "alias": "desserts"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "428 Amsterdam Ave",
+            "address2": null,
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10024"
+          },
+          "coordinates": {
+            "latitude": 40.78428,
+            "longitude": -73.97772
+          }
+        },
+        {
+          "name": "Clinton Hall",
+          "id": "2O5w-15_AVnnVJEtlWWE_A",
+          "rating": 4,
+          "review_count": 185,
+          "categories": [
+            {
+              "title": "Beer Gardens",
+              "alias": "beergardens"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "601 E 189th St",
+            "address2": null,
+            "address3": "",
+            "city": "Bronx",
+            "country": "US",
+            "postal_code": "10458"
+          },
+          "coordinates": {
+            "latitude": 40.85735,
+            "longitude": -73.88574
+          }
+        },
+        {
+          "name": "The Crooked Knife",
+          "id": "s4dRPq3hzy2Df-pCDHcVSg",
+          "rating": 3.5,
+          "review_count": 672,
+          "categories": [
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Gastropubs",
+              "alias": "gastropubs"
+            },
+            {
+              "title": "Venues & Event Spaces",
+              "alias": "venues"
+            }
+          ],
+          "location": {
+            "address1": "29 E 30th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10016"
+          },
+          "coordinates": {
+            "latitude": 40.7451615,
+            "longitude": -73.9842359
+          }
+        },
+        {
+          "name": "Dear Irving",
+          "id": "-dQexkmhlgbiKvZ94jBmjQ",
+          "rating": 4,
+          "review_count": 672,
+          "categories": [
+            {
+              "title": "Venues & Event Spaces",
+              "alias": "venues"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Lounges",
+              "alias": "lounges"
+            }
+          ],
+          "location": {
+            "address1": "55 Irving Pl",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10003"
+          },
+          "coordinates": {
+            "latitude": 40.7360568971331,
+            "longitude": -73.9872401005554
+          }
+        },
+        {
+          "name": "Medi Winebar & Restaurant",
+          "id": "n7LwEbf0zsMapAcUtyyeVA",
+          "rating": 3.5,
+          "review_count": 418,
+          "categories": [
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Mediterranean",
+              "alias": "mediterranean"
+            },
+            {
+              "title": "Modern European",
+              "alias": "modern_european"
+            }
+          ],
+          "location": {
+            "address1": "811 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.765861,
+            "longitude": -73.987418
+          }
+        },
+        {
+          "name": "The Standard Grill",
+          "id": "oYIdKuDLo54U4lN72NqWkg",
+          "rating": 3.5,
+          "review_count": 1180,
+          "categories": [
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            },
+            {
+              "title": "Lounges",
+              "alias": "lounges"
+            },
+            {
+              "title": "Diners",
+              "alias": "diners"
+            }
+          ],
+          "location": {
+            "address1": "848 Washington St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.740829,
+            "longitude": -74.008071
+          }
+        },
+        {
+          "name": "The Crown Inn",
+          "id": "i6TXF9Oh-0TFb3AsifIuYg",
+          "rating": 4,
+          "review_count": 200,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "724 Franklin Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11238"
+          },
+          "coordinates": {
+            "latitude": 40.673874,
+            "longitude": -73.957101
+          }
+        },
+        {
+          "name": "Darbar Fine Indian Cuisine",
+          "id": "RdETxi25tbocKIcMiW5TxQ",
+          "rating": 4,
+          "review_count": 568,
+          "categories": [
+            {
+              "title": "Indian",
+              "alias": "indpak"
+            },
+            {
+              "title": "Buffets",
+              "alias": "buffets"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "152 E 46th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10017"
+          },
+          "coordinates": {
+            "latitude": 40.75358,
+            "longitude": -73.97348
+          }
+        },
+        {
+          "name": "Freemans",
+          "id": "w4cFJhUpjGXqqWBd3BbY4w",
+          "rating": 4,
+          "review_count": 2106,
+          "categories": [
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Lounges",
+              "alias": "lounges"
+            },
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            }
+          ],
+          "location": {
+            "address1": "Freeman Alley",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10002"
+          },
+          "coordinates": {
+            "latitude": 40.721988,
+            "longitude": -73.992466
+          }
+        },
+        {
+          "name": "LaLou",
+          "id": "8ucQ3A7f6h9_PkKStYBkQA",
+          "rating": 4,
+          "review_count": 68,
+          "categories": [
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "581 Vanderbilt Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11238"
+          },
+          "coordinates": {
+            "latitude": 40.680311,
+            "longitude": -73.967596
+          }
+        },
+        {
+          "name": "Rabbithole Restaurant",
+          "id": "np98mkA22LYf6kCwCL59pw",
+          "rating": 4,
+          "review_count": 867,
+          "categories": [
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "352 Bedford Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11211"
+          },
+          "coordinates": {
+            "latitude": 40.7122932799856,
+            "longitude": -73.9628687873483
+          }
+        },
+        {
+          "name": "British Airways Galleries Lounge",
+          "id": "6F9XOOr60g5fL46YOOhyRQ",
+          "rating": 3,
+          "review_count": 8,
+          "categories": [
+            {
+              "title": "Airport Lounges",
+              "alias": "airportlounges"
+            }
+          ],
+          "location": {
+            "address1": "Van Wyck & JFK Expy",
+            "address2": null,
+            "address3": "Terminal 7",
+            "city": "Queens",
+            "country": "US",
+            "postal_code": "11430"
+          },
+          "coordinates": {
+            "latitude": 40.649188,
+            "longitude": -73.782907
+          }
+        },
+        {
+          "name": "MEAL",
+          "id": "iaO4XudTeTKb6FiKMEkpaQ",
+          "rating": 4,
+          "review_count": 339,
+          "categories": [
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "522-526 Franklin Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Nutley",
+            "country": "US",
+            "postal_code": "07110"
+          },
+          "coordinates": {
+            "latitude": 40.82391510634746,
+            "longitude": -74.15455385508385
+          }
+        },
+        {
+          "name": "Cafe Luxembourg",
+          "id": "fSQ3CCtFSJ2S8VXDi02-3Q",
+          "rating": 4,
+          "review_count": 534,
+          "categories": [
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "200 W 70th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10023"
+          },
+          "coordinates": {
+            "latitude": 40.77741,
+            "longitude": -73.98312
+          }
+        },
+        {
+          "name": "Casa Lever",
+          "id": "O6RBNHBleB0mCb2dAanxCw",
+          "rating": 4,
+          "review_count": 233,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Lounges",
+              "alias": "lounges"
+            }
+          ],
+          "location": {
+            "address1": "390 Park Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10022"
+          },
+          "coordinates": {
+            "latitude": 40.759741,
+            "longitude": -73.972956
+          }
+        },
+        {
+          "name": "Clandestino",
+          "id": "7uJBW357VM1x57vBbILrgQ",
+          "rating": 4,
+          "review_count": 110,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "35 Canal St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10002"
+          },
+          "coordinates": {
+            "latitude": 40.714775,
+            "longitude": -73.990852
+          }
+        },
+        {
+          "name": "Boulton & Watt",
+          "id": "Cz6It2NB_QBXCjnlsWGZSA",
+          "rating": 4,
+          "review_count": 685,
+          "categories": [
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "Gastropubs",
+              "alias": "gastropubs"
+            }
+          ],
+          "location": {
+            "address1": "5 Ave A",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.722520164329694,
+            "longitude": -73.98635991078673
+          }
+        },
+        {
+          "name": "The Gem Saloon",
+          "id": "Ur9wsKwGEDG2nT8t3jv8Ag",
+          "rating": 4,
+          "review_count": 228,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            }
+          ],
+          "location": {
+            "address1": "375 3rd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10016"
+          },
+          "coordinates": {
+            "latitude": 40.74138,
+            "longitude": -73.98107
+          }
+        },
+        {
+          "name": "CK14  The Crooked Knife",
+          "id": "pDUQF3IgvqZfT31luMgwTA",
+          "rating": 4,
+          "review_count": 561,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "Gastropubs",
+              "alias": "gastropubs"
+            },
+            {
+              "title": "Diners",
+              "alias": "diners"
+            }
+          ],
+          "location": {
+            "address1": "232 W 14th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.739015,
+            "longitude": -74.001506
+          }
+        },
+        {
+          "name": "Verlaine",
+          "id": "XghOzJn16M-nvaKMOdC5og",
+          "rating": 4,
+          "review_count": 1454,
+          "categories": [
+            {
+              "title": "Tapas/Small Plates",
+              "alias": "tapasmallplates"
+            },
+            {
+              "title": "Lounges",
+              "alias": "lounges"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "110 Rivington St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10002"
+          },
+          "coordinates": {
+            "latitude": 40.720079,
+            "longitude": -73.987785
+          }
+        },
+        {
+          "name": "Lure Fishbar",
+          "id": "aSFBv64GBpMOFPqIleeQFQ",
+          "rating": 4,
+          "review_count": 1734,
+          "categories": [
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Sushi Bars",
+              "alias": "sushi"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "142 Mercer St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.724612166991,
+            "longitude": -73.998574708004
+          }
+        },
+        {
+          "name": "The Mean Fiddler",
+          "id": "mbkBCEx8mgw9Qroo7xywPg",
+          "rating": 4,
+          "review_count": 591,
+          "categories": [
+            {
+              "title": "Irish",
+              "alias": "irish"
+            },
+            {
+              "title": "Burgers",
+              "alias": "burgers"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "266 W 47th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.7600569,
+            "longitude": -73.9871765
+          }
+        },
+        {
+          "name": "Brendan's Bar & Grill",
+          "id": "O3YtwHpY9ZZakLDkUa_TCQ",
+          "rating": 3.5,
+          "review_count": 154,
+          "categories": [
+            {
+              "title": "Irish",
+              "alias": "irish"
+            }
+          ],
+          "location": {
+            "address1": "42 W 35th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10001"
+          },
+          "coordinates": {
+            "latitude": 40.7496341317892,
+            "longitude": -73.9854808151722
+          }
+        },
+        {
+          "name": "American Trash",
+          "id": "YnOLKAOE09BcsoU61ExlkA",
+          "rating": 3.5,
+          "review_count": 115,
+          "categories": [
+            {
+              "title": "Sports Bars",
+              "alias": "sportsbars"
+            },
+            {
+              "title": "Pubs",
+              "alias": "pubs"
+            },
+            {
+              "title": "Hot Dogs",
+              "alias": "hotdog"
+            }
+          ],
+          "location": {
+            "address1": "1471 1st Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10021"
+          },
+          "coordinates": {
+            "latitude": 40.77091,
+            "longitude": -73.95409
+          }
+        },
+        {
+          "name": "Jack Doyle's Bar & Restaurant",
+          "id": "sDajjybHSYFw8gTVbknPGA",
+          "rating": 4,
+          "review_count": 336,
+          "categories": [
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            },
+            {
+              "title": "Pubs",
+              "alias": "pubs"
+            },
+            {
+              "title": "Irish",
+              "alias": "irish"
+            }
+          ],
+          "location": {
+            "address1": "240 W 35th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10001"
+          },
+          "coordinates": {
+            "latitude": 40.752132,
+            "longitude": -73.991852
+          }
+        },
+        {
+          "name": "St. Elias Bar",
+          "id": "Ujjazj0UBN7-4GyImezpUg",
+          "rating": 4.5,
+          "review_count": 7,
+          "categories": [
+            {
+              "title": "Beer Bar",
+              "alias": "beerbar"
+            },
+            {
+              "title": "Whiskey Bars",
+              "alias": "whiskeybars"
+            }
+          ],
+          "location": {
+            "address1": "899 Broadway",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11206"
+          },
+          "coordinates": {
+            "latitude": 40.69798,
+            "longitude": -73.93679
+          }
+        },
+        {
+          "name": "Imli Urban Indian Food",
+          "id": "50eKjWOB-H9iuo1ocACOaQ",
+          "rating": 4.5,
+          "review_count": 211,
+          "categories": [
+            {
+              "title": "Indian",
+              "alias": "indpak"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "1136 1st Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10065"
+          },
+          "coordinates": {
+            "latitude": 40.7616660604253,
+            "longitude": -73.9601389691234
+          }
+        },
+        {
+          "name": "Irish Cottage",
+          "id": "uiqxxKHuuETtWbiKdiocXw",
+          "rating": 3.5,
+          "review_count": 197,
+          "categories": [
+            {
+              "title": "Irish",
+              "alias": "irish"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Irish Pub",
+              "alias": "irish_pubs"
+            }
+          ],
+          "location": {
+            "address1": "10807 72nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Forest Hills",
+            "country": "US",
+            "postal_code": "11375"
+          },
+          "coordinates": {
+            "latitude": 40.7197538285905,
+            "longitude": -73.8425123691559
+          }
+        },
+        {
+          "name": "Sea Wolf - Bushwick",
+          "id": "d7_W8J8T0PESBsILMsGKGQ",
+          "rating": 4,
+          "review_count": 569,
+          "categories": [
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            }
+          ],
+          "location": {
+            "address1": "19 Wyckoff Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11237"
+          },
+          "coordinates": {
+            "latitude": 40.70683,
+            "longitude": -73.9228
+          }
+        }
+      ]
+    }
+  }
+}

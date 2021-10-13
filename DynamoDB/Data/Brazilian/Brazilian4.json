@@ -1,0 +1,1421 @@
+{
+  "data": {
+    "search": {
+      "total": 240,
+      "business": [
+        {
+          "name": "Pio Pio 2",
+          "id": "fMGAT-lT4XEYKKck5R915w",
+          "rating": 3.5,
+          "review_count": 1201,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Peruvian",
+              "alias": "peruvian"
+            }
+          ],
+          "location": {
+            "address1": "84-02 Northern Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Jackson Heights",
+            "country": "US",
+            "postal_code": "11372"
+          },
+          "coordinates": {
+            "latitude": 40.7555,
+            "longitude": -73.88315
+          }
+        },
+        {
+          "name": "Areppas Soho",
+          "id": "35dHIG4P0EwiHF2btw0unQ",
+          "rating": 4,
+          "review_count": 53,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Gluten-Free",
+              "alias": "gluten_free"
+            },
+            {
+              "title": "Empanadas",
+              "alias": "empanadas"
+            }
+          ],
+          "location": {
+            "address1": "25 Cleveland Pl",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.72185,
+            "longitude": -73.99713
+          }
+        },
+        {
+          "name": "Brazilian Buffet",
+          "id": "VQjDV6U3LcuiS19vPbbhlQ",
+          "rating": 4,
+          "review_count": 10,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "124 Wilson Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.7239952087402,
+            "longitude": -74.1521453857422
+          }
+        },
+        {
+          "name": "Empanadas Monumental",
+          "id": "wqw23CAwwVMhN6Jd3cxXJg",
+          "rating": 3.5,
+          "review_count": 64,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Caribbean",
+              "alias": "caribbean"
+            },
+            {
+              "title": "Empanadas",
+              "alias": "empanadas"
+            }
+          ],
+          "location": {
+            "address1": "4093 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10032"
+          },
+          "coordinates": {
+            "latitude": 40.8445,
+            "longitude": -73.9391
+          }
+        },
+        {
+          "name": "Santa Luzia Churrasq",
+          "id": "13KMg83RE_vwEX3Hx_GLpw",
+          "rating": 3.5,
+          "review_count": 28,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            }
+          ],
+          "location": {
+            "address1": "192 Washington Ave",
+            "address2": null,
+            "address3": null,
+            "city": "Belleville",
+            "country": "US",
+            "postal_code": "07109"
+          },
+          "coordinates": {
+            "latitude": 40.787609,
+            "longitude": -74.152465
+          }
+        },
+        {
+          "name": "Café Mauro",
+          "id": "eT2jmht5ZXkSU4WWr5beRw",
+          "rating": 4.5,
+          "review_count": 70,
+          "categories": [
+            {
+              "title": "Desserts",
+              "alias": "desserts"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Sandwiches",
+              "alias": "sandwiches"
+            }
+          ],
+          "location": {
+            "address1": "207 Ridge Rd",
+            "address2": null,
+            "address3": "",
+            "city": "North Arlington",
+            "country": "US",
+            "postal_code": "07031"
+          },
+          "coordinates": {
+            "latitude": 40.7883168,
+            "longitude": -74.1337437
+          }
+        },
+        {
+          "name": "Lusiadas",
+          "id": "WVUFdz_T_6smJ7bGb7umDQ",
+          "rating": 3,
+          "review_count": 11,
+          "categories": [
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            },
+            {
+              "title": "Mediterranean",
+              "alias": "mediterranean"
+            }
+          ],
+          "location": {
+            "address1": "6 Gramatan Ave",
+            "address2": "Unit 101",
+            "address3": "",
+            "city": "Mount Vernon",
+            "country": "US",
+            "postal_code": "10550"
+          },
+          "coordinates": {
+            "latitude": 40.91246,
+            "longitude": -73.83772
+          }
+        },
+        {
+          "name": "Snack Mania Brazilian Delights",
+          "id": "V6g1S3SYk6F4_VUsDJFqLQ",
+          "rating": 4.5,
+          "review_count": 33,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            }
+          ],
+          "location": {
+            "address1": "374 South St",
+            "address2": null,
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.7190723496254,
+            "longitude": -74.1621028
+          }
+        },
+        {
+          "name": "Noches de Colombia",
+          "id": "29eekLV2Srr_H5Ihn4K8Yw",
+          "rating": 3.5,
+          "review_count": 416,
+          "categories": [
+            {
+              "title": "Spanish",
+              "alias": "spanish"
+            },
+            {
+              "title": "Colombian",
+              "alias": "colombian"
+            }
+          ],
+          "location": {
+            "address1": "90 W Palisade Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Englewood",
+            "country": "US",
+            "postal_code": "07631"
+          },
+          "coordinates": {
+            "latitude": 40.8966616961043,
+            "longitude": -73.9817560016196
+          }
+        },
+        {
+          "name": "Joia Restaurant",
+          "id": "IW_clUuhjW_tqg4qgzdtqQ",
+          "rating": 4,
+          "review_count": 72,
+          "categories": [
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "1100 Frank E Rodgers Blvd S",
+            "address2": null,
+            "address3": "",
+            "city": "Harrison",
+            "country": "US",
+            "postal_code": "07029"
+          },
+          "coordinates": {
+            "latitude": 40.7361319744448,
+            "longitude": -74.1551378761963
+          }
+        },
+        {
+          "name": "Morton's The Steakhouse",
+          "id": "suEoAFFWEj-RA3smDVqDbA",
+          "rating": 4,
+          "review_count": 266,
+          "categories": [
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "136 Washington St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10006"
+          },
+          "coordinates": {
+            "latitude": 40.7097005194611,
+            "longitude": -74.0139538049698
+          }
+        },
+        {
+          "name": "Churrascaria Boi Na Brasa",
+          "id": "yFNFfeRh0MkGeLGZRTsdWg",
+          "rating": 3.5,
+          "review_count": 65,
+          "categories": [
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "70 Adams St",
+            "address2": "Ste 4",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.729904,
+            "longitude": -74.1579081
+          }
+        },
+        {
+          "name": "Brazilian Spices",
+          "id": "0zs4uAqqSnS9iE7ZYZYKFQ",
+          "rating": 3.5,
+          "review_count": 51,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "141 Schuyler Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Kearny",
+            "country": "US",
+            "postal_code": "07032"
+          },
+          "coordinates": {
+            "latitude": 40.75377,
+            "longitude": -74.14572
+          }
+        },
+        {
+          "name": "O Lavrador",
+          "id": "d61Ejg_qQGTATqh67c912g",
+          "rating": 4,
+          "review_count": 250,
+          "categories": [
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "Spanish",
+              "alias": "spanish"
+            }
+          ],
+          "location": {
+            "address1": "13840 101st Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Jamaica",
+            "country": "US",
+            "postal_code": "11435"
+          },
+          "coordinates": {
+            "latitude": 40.694454,
+            "longitude": -73.809419
+          }
+        },
+        {
+          "name": "Altas Horas",
+          "id": "5k0kwGzO-zpDzDi3782FIw",
+          "rating": 4,
+          "review_count": 203,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "266 Ferry St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72869,
+            "longitude": -74.1525
+          }
+        },
+        {
+          "name": "Fire Pit Barbeque",
+          "id": "Wm-_1oKOrxWH_U0YPafKJA",
+          "rating": 3.5,
+          "review_count": 85,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            }
+          ],
+          "location": {
+            "address1": "605 Ridge Rd",
+            "address2": "",
+            "address3": "",
+            "city": "North Arlington",
+            "country": "US",
+            "postal_code": "07031"
+          },
+          "coordinates": {
+            "latitude": 40.7982307314552,
+            "longitude": -74.1264184936881
+          }
+        },
+        {
+          "name": "SoBol Bedford-Stuyvesant",
+          "id": "MClR2b4nja19Pxbe6Ng1oA",
+          "rating": 4.5,
+          "review_count": 11,
+          "categories": [
+            {
+              "title": "Cafes",
+              "alias": "cafes"
+            },
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            }
+          ],
+          "location": {
+            "address1": "531 Nostrand Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11216"
+          },
+          "coordinates": {
+            "latitude": 40.67914,
+            "longitude": -73.94949
+          }
+        },
+        {
+          "name": "Parceros Bakery",
+          "id": "ZZkWHvDoDK_vXLTf7FmdYA",
+          "rating": 4,
+          "review_count": 79,
+          "categories": [
+            {
+              "title": "Bakeries",
+              "alias": "bakeries"
+            },
+            {
+              "title": "Colombian",
+              "alias": "colombian"
+            }
+          ],
+          "location": {
+            "address1": "63-54 Woodhaven Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Rego Park",
+            "country": "US",
+            "postal_code": "11374"
+          },
+          "coordinates": {
+            "latitude": 40.7230342943081,
+            "longitude": -73.8683484122157
+          }
+        },
+        {
+          "name": "Noches de Colombia",
+          "id": "fKp-Oo-0B9dzvyU6M5dqeg",
+          "rating": 3,
+          "review_count": 143,
+          "categories": [
+            {
+              "title": "Colombian",
+              "alias": "colombian"
+            },
+            {
+              "title": "Spanish",
+              "alias": "spanish"
+            }
+          ],
+          "location": {
+            "address1": "233 Central Ave.",
+            "address2": "",
+            "address3": "",
+            "city": "Jersey City",
+            "country": "US",
+            "postal_code": "07307"
+          },
+          "coordinates": {
+            "latitude": 40.7429211088243,
+            "longitude": -74.0515814462259
+          }
+        },
+        {
+          "name": "Travesias",
+          "id": "P8PGGzxZeMm6Na5gYqvudw",
+          "rating": 4,
+          "review_count": 560,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            }
+          ],
+          "location": {
+            "address1": "3834 E Tremont Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Bronx",
+            "country": "US",
+            "postal_code": "10465"
+          },
+          "coordinates": {
+            "latitude": 40.824337,
+            "longitude": -73.8203876
+          }
+        },
+        {
+          "name": "Baliza",
+          "id": "RK1cxbJt1sGN-kubhVYlBw",
+          "rating": 3,
+          "review_count": 13,
+          "categories": [
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            }
+          ],
+          "location": {
+            "address1": "75 Kearny Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Kearny",
+            "country": "US",
+            "postal_code": "07032"
+          },
+          "coordinates": {
+            "latitude": 40.75506,
+            "longitude": -74.1562
+          }
+        },
+        {
+          "name": "Adega Grill",
+          "id": "N9vL0Rn2-2ivDvmDs0xqqg",
+          "rating": 4,
+          "review_count": 315,
+          "categories": [
+            {
+              "title": "Portuguese",
+              "alias": "portuguese"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "130 Ferry St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.7300006,
+            "longitude": -74.1597376
+          }
+        },
+        {
+          "name": "Quality Italian",
+          "id": "dc3hkLkAqCSxDWQzrx-g9A",
+          "rating": 4,
+          "review_count": 1141,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "57 W 57th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.7644044527436,
+            "longitude": -73.9767805051616
+          }
+        },
+        {
+          "name": "Old Homestead Steak House",
+          "id": "dqXZa8fcvHsFvtZVtwRNkA",
+          "rating": 3.5,
+          "review_count": 1080,
+          "categories": [
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "56 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.74121,
+            "longitude": -74.00477
+          }
+        },
+        {
+          "name": "McWhorter BBQ",
+          "id": "sf0Kay8bUsXgmxd41lfJcA",
+          "rating": 4,
+          "review_count": 211,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            }
+          ],
+          "location": {
+            "address1": "104 McWhorter St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.729441,
+            "longitude": -74.166709
+          }
+        },
+        {
+          "name": "Dalmo's Place",
+          "id": "PEwOTFcOjjWTRd7pmWIyQA",
+          "rating": 5,
+          "review_count": 2,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "15 W Sidney Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Mount Vernon",
+            "country": "US",
+            "postal_code": "10550"
+          },
+          "coordinates": {
+            "latitude": 40.91453,
+            "longitude": -73.83814
+          }
+        },
+        {
+          "name": "Coconut Latin Caribbean Grill",
+          "id": "gftqM8u8byzeM0yJnbU41w",
+          "rating": 3,
+          "review_count": 62,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Dominican",
+              "alias": "dominican"
+            }
+          ],
+          "location": {
+            "address1": "681 Montgomery St",
+            "address2": "",
+            "address3": "",
+            "city": "Jersey City",
+            "country": "US",
+            "postal_code": "07306"
+          },
+          "coordinates": {
+            "latitude": 40.72422,
+            "longitude": -74.0662
+          }
+        },
+        {
+          "name": "Cantinho Mineiro Restaurante",
+          "id": "cIaTbVkXJayAVRiACHDdAw",
+          "rating": 4.5,
+          "review_count": 3,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "174 Wilson Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.7224346240376,
+            "longitude": -74.1505808383226
+          }
+        },
+        {
+          "name": "Bread of Life Pao da Vida Bakery",
+          "id": "rdunKiATzF9p2fKs9luQEQ",
+          "rating": 4.5,
+          "review_count": 17,
+          "categories": [
+            {
+              "title": "Bakeries",
+              "alias": "bakeries"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            }
+          ],
+          "location": {
+            "address1": "331 Oliver St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72188,
+            "longitude": -74.15835
+          }
+        },
+        {
+          "name": "Dia Y Noche Restaurant",
+          "id": "Qg-wXd08TWnTsn0uTq3MsA",
+          "rating": 3,
+          "review_count": 152,
+          "categories": [
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Desserts",
+              "alias": "desserts"
+            }
+          ],
+          "location": {
+            "address1": "640 Mclean Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Yonkers",
+            "country": "US",
+            "postal_code": "10705"
+          },
+          "coordinates": {
+            "latitude": 40.9090901458505,
+            "longitude": -73.8788563013077
+          }
+        },
+        {
+          "name": "Liberty Prime Steakhouse",
+          "id": "LmjIvh6gRGzxFBI99doR9w",
+          "rating": 4,
+          "review_count": 394,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "111 Montgomery St",
+            "address2": "",
+            "address3": "",
+            "city": "Jersey City",
+            "country": "US",
+            "postal_code": "07302"
+          },
+          "coordinates": {
+            "latitude": 40.7168985,
+            "longitude": -74.0399027
+          }
+        },
+        {
+          "name": "Ruben's Empanadas",
+          "id": "eKouWOwkXrHG02OUysCq9A",
+          "rating": 3,
+          "review_count": 78,
+          "categories": [
+            {
+              "title": "Empanadas",
+              "alias": "empanadas"
+            }
+          ],
+          "location": {
+            "address1": "64 Fulton St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10038"
+          },
+          "coordinates": {
+            "latitude": 40.70883,
+            "longitude": -74.00531
+          }
+        },
+        {
+          "name": "Empanada Mama",
+          "id": "5FaZEG91NXfY3z_0Trf-bA",
+          "rating": 3.5,
+          "review_count": 26,
+          "categories": [
+            {
+              "title": "Empanadas",
+              "alias": "empanadas"
+            }
+          ],
+          "location": {
+            "address1": "200 W 40th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10018"
+          },
+          "coordinates": {
+            "latitude": 40.7548520085934,
+            "longitude": -73.9883571490645
+          }
+        },
+        {
+          "name": "Kathie & Glenn's Steakhouse",
+          "id": "h38J9rb8ozH2n1E23tU0Zg",
+          "rating": 4,
+          "review_count": 52,
+          "categories": [
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "250 Main Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Wallington",
+            "country": "US",
+            "postal_code": "07057"
+          },
+          "coordinates": {
+            "latitude": 40.8557152,
+            "longitude": -74.106899
+          }
+        },
+        {
+          "name": "Raices Colombianas",
+          "id": "KdnsIxvlqeKEuFO0RYD7tw",
+          "rating": 3.5,
+          "review_count": 79,
+          "categories": [
+            {
+              "title": "Colombian",
+              "alias": "colombian"
+            }
+          ],
+          "location": {
+            "address1": "86-02 37th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Jackson Heights",
+            "country": "US",
+            "postal_code": "11372"
+          },
+          "coordinates": {
+            "latitude": 40.74995,
+            "longitude": -73.88007
+          }
+        },
+        {
+          "name": "City View Kitchen",
+          "id": "6LXxrH9szdxAAhW7DsANjg",
+          "rating": 4.5,
+          "review_count": 13,
+          "categories": [
+            {
+              "title": "Dominican",
+              "alias": "dominican"
+            },
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            }
+          ],
+          "location": {
+            "address1": "255 Hackensack St",
+            "address2": "",
+            "address3": null,
+            "city": "Wood-Ridge",
+            "country": "US",
+            "postal_code": "07075"
+          },
+          "coordinates": {
+            "latitude": 40.8485998,
+            "longitude": -74.08122390000001
+          }
+        },
+        {
+          "name": "Hamburgao",
+          "id": "Nj_7nyLUZkoCzie-voVwhQ",
+          "rating": 4,
+          "review_count": 175,
+          "categories": [
+            {
+              "title": "Burgers",
+              "alias": "burgers"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "288 Lafayette St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.727735161693076,
+            "longitude": -74.15994884084299
+          }
+        },
+        {
+          "name": "Uncle Jack's Steakhouse - Westside",
+          "id": "fiNNzhD1BRLP8iA1r3m2Cg",
+          "rating": 3.5,
+          "review_count": 533,
+          "categories": [
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            },
+            {
+              "title": "Burgers",
+              "alias": "burgers"
+            }
+          ],
+          "location": {
+            "address1": "440 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10001"
+          },
+          "coordinates": {
+            "latitude": 40.75367,
+            "longitude": -73.99549
+          }
+        },
+        {
+          "name": "IC Brooklyn Cafe",
+          "id": "VRhEPnjPI64dBC39gDD-Vw",
+          "rating": 4.5,
+          "review_count": 116,
+          "categories": [
+            {
+              "title": "Coffee & Tea",
+              "alias": "coffee"
+            },
+            {
+              "title": "Bagels",
+              "alias": "bagels"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            }
+          ],
+          "location": {
+            "address1": "117 Wilson Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11237"
+          },
+          "coordinates": {
+            "latitude": 40.70124879999999,
+            "longitude": -73.9262574
+          }
+        },
+        {
+          "name": "Arirang Hibachi Steakhouse",
+          "id": "jYia13i0CBwNXadzAAxLJg",
+          "rating": 3.5,
+          "review_count": 352,
+          "categories": [
+            {
+              "title": "Japanese",
+              "alias": "japanese"
+            },
+            {
+              "title": "Sushi Bars",
+              "alias": "sushi"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "8814 4th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11209"
+          },
+          "coordinates": {
+            "latitude": 40.62106,
+            "longitude": -74.02927
+          }
+        },
+        {
+          "name": "Boi Na Brasa",
+          "id": "74mcn2j23WUVT_KCMX3VLg",
+          "rating": 3,
+          "review_count": 96,
+          "categories": [
+            {
+              "title": "Sports Bars",
+              "alias": "sportsbars"
+            },
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            },
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            }
+          ],
+          "location": {
+            "address1": "1 Merchant St",
+            "address2": "",
+            "address3": "",
+            "city": "Newark",
+            "country": "US",
+            "postal_code": "07105"
+          },
+          "coordinates": {
+            "latitude": 40.72961,
+            "longitude": -74.1544399
+          }
+        },
+        {
+          "name": "Stephanies BBQ",
+          "id": "qwEmRG4JlIkHyyDW10AMHw",
+          "rating": 3,
+          "review_count": 96,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            },
+            {
+              "title": "Desserts",
+              "alias": "desserts"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            }
+          ],
+          "location": {
+            "address1": "8 Centre St",
+            "address2": "",
+            "address3": "",
+            "city": "Nutley",
+            "country": "US",
+            "postal_code": "07110"
+          },
+          "coordinates": {
+            "latitude": 40.8099599,
+            "longitude": -74.1464699
+          }
+        },
+        {
+          "name": "Charlie Palmer at the Knick",
+          "id": "nrvCwPbCpYL_jtaKd7tGfQ",
+          "rating": 3,
+          "review_count": 71,
+          "categories": [
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            }
+          ],
+          "location": {
+            "address1": "6 Times Square",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10037"
+          },
+          "coordinates": {
+            "latitude": 40.755599,
+            "longitude": -73.9862681
+          }
+        },
+        {
+          "name": "La Gata Golosa Bakery & Restaurant",
+          "id": "5dASGzbYSCTGkuitl0Wgrw",
+          "rating": 2.5,
+          "review_count": 38,
+          "categories": [
+            {
+              "title": "Bakeries",
+              "alias": "bakeries"
+            },
+            {
+              "title": "Colombian",
+              "alias": "colombian"
+            }
+          ],
+          "location": {
+            "address1": "89-1 37th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Elmhurst",
+            "country": "US",
+            "postal_code": "11372"
+          },
+          "coordinates": {
+            "latitude": 40.7504654630586,
+            "longitude": -73.8776680827141
+          }
+        },
+        {
+          "name": "NoMa Social",
+          "id": "inP3Ca1x9LYZpp4QP0d6vg",
+          "rating": 3.5,
+          "review_count": 131,
+          "categories": [
+            {
+              "title": "Mediterranean",
+              "alias": "mediterranean"
+            },
+            {
+              "title": "Latin American",
+              "alias": "latin"
+            },
+            {
+              "title": "Tapas Bars",
+              "alias": "tapas"
+            }
+          ],
+          "location": {
+            "address1": "1 Radisson Plz",
+            "address2": "",
+            "address3": "",
+            "city": "New Rochelle",
+            "country": "US",
+            "postal_code": "10801"
+          },
+          "coordinates": {
+            "latitude": 40.91383187258055,
+            "longitude": -73.77781837272468
+          }
+        },
+        {
+          "name": "Red White & Que Smokehouse",
+          "id": "PmevHhcrsfeAYuA7RBPh0g",
+          "rating": 4.5,
+          "review_count": 451,
+          "categories": [
+            {
+              "title": "Barbeque",
+              "alias": "bbq"
+            },
+            {
+              "title": "Smokehouse",
+              "alias": "smokehouse"
+            }
+          ],
+          "location": {
+            "address1": "266 Davis Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Kearny",
+            "country": "US",
+            "postal_code": "07032"
+          },
+          "coordinates": {
+            "latitude": 40.7618138,
+            "longitude": -74.1447397
+          }
+        },
+        {
+          "name": "Acai Ya Later",
+          "id": "KVAq9pPpngkuKk2YJRgDVw",
+          "rating": 4,
+          "review_count": 137,
+          "categories": [
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            },
+            {
+              "title": "Vegan",
+              "alias": "vegan"
+            }
+          ],
+          "location": {
+            "address1": "203 Washington St",
+            "address2": "",
+            "address3": null,
+            "city": "Hoboken",
+            "country": "US",
+            "postal_code": "07030"
+          },
+          "coordinates": {
+            "latitude": 40.738863428563555,
+            "longitude": -74.03026140561042
+          }
+        },
+        {
+          "name": "Juice Generation",
+          "id": "0Ml-KmkEB8QhmcqkMdPEOw",
+          "rating": 4,
+          "review_count": 211,
+          "categories": [
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            },
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Organic Stores",
+              "alias": "organic_stores"
+            }
+          ],
+          "location": {
+            "address1": "644 9th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10036"
+          },
+          "coordinates": {
+            "latitude": 40.76039,
+            "longitude": -73.9908
+          }
+        },
+        {
+          "name": "Ibiza Juice Bar",
+          "id": "STw5rdgzY-QzneYH1s1X_g",
+          "rating": 5,
+          "review_count": 4,
+          "categories": [
+            {
+              "title": "Acai Bowls",
+              "alias": "acaibowls"
+            },
+            {
+              "title": "Juice Bars & Smoothies",
+              "alias": "juicebars"
+            }
+          ],
+          "location": {
+            "address1": "3204 30th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "11102"
+          },
+          "coordinates": {
+            "latitude": 40.766262,
+            "longitude": -73.920468
+          }
+        },
+        {
+          "name": "Mr Skewer & Co",
+          "id": "gfQ-r520Oav74_dXUdgj7Q",
+          "rating": 2,
+          "review_count": 3,
+          "categories": [
+            {
+              "title": "Brazilian",
+              "alias": "brazilian"
+            }
+          ],
+          "location": {
+            "address1": "352 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.7169132,
+            "longitude": -74.0037184
+          }
+        }
+      ]
+    }
+  }
+}

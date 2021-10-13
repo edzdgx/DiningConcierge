@@ -1,0 +1,472 @@
+{"index": {"_index": "restaurants", "_id": 0}}
+{"business_id": "xFp3xSQ43J-i7nmJfNBsZA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 1}}
+{"business_id": "enDIsmxSG2bQccQWgGNcbg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 2}}
+{"business_id": "XKDHsS8PevoEdFLNtt05FA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 3}}
+{"business_id": "uXsYr76zioJq7jjOKRwQog", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 4}}
+{"business_id": "4eAgPj7eKonKAtk64kgUfQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 5}}
+{"business_id": "itblJyiTY2h2ACidLk66oA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 6}}
+{"business_id": "PTYUAAJbEmvIv4EsyRrcnA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 7}}
+{"business_id": "MTtqSunPEZwdCJFMHsiHzg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 8}}
+{"business_id": "W5RSIwNKBa7k0jeAs5KDYg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 9}}
+{"business_id": "eQ4QUGvuHGBzsOrphsVc6A", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 10}}
+{"business_id": "ZqWktQxoknREjSm_k5KH3Q", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 11}}
+{"business_id": "xrnk8mgoV7up6fauVmugpw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 12}}
+{"business_id": "3eBV6HwWcdHzJW3sUH-2hw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 13}}
+{"business_id": "dC2VDnFveu7JPNY_X9NvxQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 14}}
+{"business_id": "l5ljyjseOlWnvIVEXx0LxA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 15}}
+{"business_id": "QJTLAOMNvhV1_jPfcQ_qPw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 16}}
+{"business_id": "NRJq2BNcbjqAyxUB_bw7gw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 17}}
+{"business_id": "y_ylOQzCP-9D_4DcUIJ3jA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 18}}
+{"business_id": "lA9FihBf_9BkdpX0wYqMFQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 19}}
+{"business_id": "XAEwG1bfAiWUewpzZnB2uw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 20}}
+{"business_id": "479rycCXZojMT9S0cl8Oxg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 21}}
+{"business_id": "l_RAv09V67j-Hm9dyZxWhw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 22}}
+{"business_id": "0eLtFI6MeEYM2rlMtcjRaQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 23}}
+{"business_id": "7HoD87hAJRuCh2d5Tw-t2w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 24}}
+{"business_id": "7rxg-tWPc1jK7Cikn5R86g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 25}}
+{"business_id": "_zGsfwGAY8ZTob_mIFAM-w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 26}}
+{"business_id": "cyOaoc0U6Trc0FZu6l14VQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 27}}
+{"business_id": "M2bvOwAbCjLUvMbAF6h3-w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 28}}
+{"business_id": "NCnOkzbyfzDltnBnJySfzw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 29}}
+{"business_id": "fWX7sIzv_WTgZXdSwxYBPg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 30}}
+{"business_id": "oTkzgr7hzOAdlP99Auj3GQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 31}}
+{"business_id": "m1cJLpDN4B-_0hGgPfe5OA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 32}}
+{"business_id": "0IlPgT9j_85PuLDs8ZqiUw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 33}}
+{"business_id": "42j0S2yFg4B6jO95I4Lfog", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 34}}
+{"business_id": "oB2cpcZNyjDklNqZN0n8hg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 35}}
+{"business_id": "qm1J_dPA5IHij1oAnoZwHw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 36}}
+{"business_id": "AjlmpAQV8W4--y0EksO-9g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 37}}
+{"business_id": "dOxHYQmBR14Fa2C1X8oMMQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 38}}
+{"business_id": "FYWwW5lcxKzaA98Xgw8bqA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 39}}
+{"business_id": "raelHbSJ_gTo701c-KyXWg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 40}}
+{"business_id": "6lUsFj0KCao678o9L7QwUw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 41}}
+{"business_id": "SxKvgnkMMZdhBJcxxKQnww", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 42}}
+{"business_id": "tyyqm0ftkoKQxednWNh0Tg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 43}}
+{"business_id": "Xb7a07fx__8KZaKIT0K8Aw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 44}}
+{"business_id": "0ePn6TQSJQky4ueKeGQvpQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 45}}
+{"business_id": "uCXsqMEfD12Rlmp1H09_Nw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 46}}
+{"business_id": "YC-wGlO0oOkEIaCEDZv-ag", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 47}}
+{"business_id": "ipAsHykRvgJzpx5hD8vTJw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 48}}
+{"business_id": "HZWHBfeuP4Fb6y8b8uqnbA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 49}}
+{"business_id": "n1xpGOPa7XRq4or7QLjzHw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 50}}
+{"business_id": "wjIyCBEpCG_HRp8veiI0YQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 51}}
+{"business_id": "BPZfuPvSxCfoppU4lPFm0Q", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 52}}
+{"business_id": "kIzVGUWS2b5H_b-G0Q0-0g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 53}}
+{"business_id": "mlm40NxsVJUPnh3LTayaaw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 54}}
+{"business_id": "DNSFvZtdsqkaidmFSpm-Jw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 55}}
+{"business_id": "TaDgnJXD6m_7BM9kGFtkWw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 56}}
+{"business_id": "J9UA6rzI5WW_cDGjwDnF5g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 57}}
+{"business_id": "Q23LvHPuC9ajSbMEt8xoUw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 58}}
+{"business_id": "MwtXOkRUndPU-ivbtLD-bQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 59}}
+{"business_id": "bJgl6cDIBIMlgrntQbxt1g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 60}}
+{"business_id": "GlPJPpKvPR4d8dmcSEYpdA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 61}}
+{"business_id": "xtxcAUvrD4dWHJd0cwvW1A", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 62}}
+{"business_id": "f0CAuvkgAByWo4ceT3u9uw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 63}}
+{"business_id": "7OMGEtFWT6sdd9TVuoGqJQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 64}}
+{"business_id": "ct58a_D8Z8DoJt7luB50wQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 65}}
+{"business_id": "HFn1sPqKSzvxaMk2n2ZtJw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 66}}
+{"business_id": "FXFQJmhK6elesopXdhjvFQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 67}}
+{"business_id": "klAhw3xLQi9GF1tf_HnS7w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 68}}
+{"business_id": "GKspSLe5U3qkUgQTXfngyQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 69}}
+{"business_id": "Ms1p17KsYteDlkvHnllC2g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 70}}
+{"business_id": "OFfZUS-nu6NDnsWe1B2bUQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 71}}
+{"business_id": "ax4INkzwL__-d_kGJfcA-w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 72}}
+{"business_id": "wcs0Qm2PshPz0ifTsJK3YA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 73}}
+{"business_id": "wQU3LMmOPNzxL-ptOi_F5w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 74}}
+{"business_id": "jt-0y4RJ20ONbkxxNWG_Sw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 75}}
+{"business_id": "o5EIqc4LekAoeLHiYjzLqQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 76}}
+{"business_id": "ckuFutONOBo_rrscCkLUBw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 77}}
+{"business_id": "pS7aJrWCGRuVqflukwiFDw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 78}}
+{"business_id": "ZOpnIsm7ihoO1gq2YmGdzw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 79}}
+{"business_id": "b2G2C5Y44qeDIXFMQfyH-Q", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 80}}
+{"business_id": "dMU62c3NKm7AFy90sA-Xtw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 81}}
+{"business_id": "K84FS4X-Hj2Xt_uUCjwNIA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 82}}
+{"business_id": "8NVN6Nldm7AGoGaABBZMRw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 83}}
+{"business_id": "_IkMfWpOkQXRZtJAYJUJIw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 84}}
+{"business_id": "vX0_qcuVXoeeH1_24I8lSA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 85}}
+{"business_id": "RjeW_l8OF99rn5df5-Rj4g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 86}}
+{"business_id": "L87p5eAKGjvkS2YZYjZcrg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 87}}
+{"business_id": "yecdlU3oJb1c7rwbjtxchQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 88}}
+{"business_id": "M9ocxj9j91I1Av32UKSeYA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 89}}
+{"business_id": "'-Q8MYIWoE4EsGQtudIOY0w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 90}}
+{"business_id": "'-J8VuX3wGrYSOBu2G0hMsw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 91}}
+{"business_id": "Cg5kGSXIelsKX9eqlHr31A", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 92}}
+{"business_id": "Zjdtcex73QIz2_MvEvDrFQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 93}}
+{"business_id": "axqp3pGJXnTLgq2QrPyDyQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 94}}
+{"business_id": "O9WmKufAUqDM0j2HpgLVlw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 95}}
+{"business_id": "kN3rkbjvqkY62CDRYUVz4g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 96}}
+{"business_id": "qvVltqaoMJIyO9v3Rs-E2g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 97}}
+{"business_id": "'-86K6KX3HlUwkWTWRO3VAQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 98}}
+{"business_id": "fUcjBGgmTlvxXn2azvAijw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 99}}
+{"business_id": "mESab-FqL5QqSVsnX72asQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 100}}
+{"business_id": "icpLRhJ1jpBX1zBGkt7Xqg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 101}}
+{"business_id": "diz6_4TVSP6EdWEZCZ0Acg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 102}}
+{"business_id": "YoR6ouUwehLFnBQ7RAjPlw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 103}}
+{"business_id": "fodZOSMMVFK_vBQ8h-FxSA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 104}}
+{"business_id": "DdoubmNfPNRi9xNmcQ64ug", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 105}}
+{"business_id": "eyqVOLoOLrqZ98_QhdPXqg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 106}}
+{"business_id": "AudBWxeAr3zHr1ITrTcVpg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 107}}
+{"business_id": "2f0EWTvp3YDtGNKEEXKKhA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 108}}
+{"business_id": "8fr5FYU1ip0phERt1mrekg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 109}}
+{"business_id": "VdAVjghEq_Zl-DDte0mjrw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 110}}
+{"business_id": "mm8gYHxaLLRyv3CslY40TA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 111}}
+{"business_id": "7iY35991NhQ1AShJZCNZgA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 112}}
+{"business_id": "D6ZEcG1FCZ18nekMWrhgMg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 113}}
+{"business_id": "i8F0fnempD5fTb2CxbwKDw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 114}}
+{"business_id": "WlRZ4JEAVqtemQ5WQhFAFg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 115}}
+{"business_id": "pqqhHTz_ZpApsaWGa_zMTA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 116}}
+{"business_id": "a6UR7f_z1R87sBS4xKw31A", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 117}}
+{"business_id": "ulyoll6G7GmmWXzBPSD4mw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 118}}
+{"business_id": "Qli775QfVY4oFPNu7Cy5Tw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 119}}
+{"business_id": "FXimZKjpMjbDR20M2ruhvg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 120}}
+{"business_id": "LKNhVc1VIt87NQL2wn9rnw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 121}}
+{"business_id": "YvRTy-6_akPsz25BSSuC_w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 122}}
+{"business_id": "IjRxYyr41Yl1fGhIrss1vg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 123}}
+{"business_id": "wyjtGsW5NeVDknGQWnIPAQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 124}}
+{"business_id": "b3fuuJzb0uQDtVD3Zxe2Qg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 125}}
+{"business_id": "uMfKMq93oYjFM1EITsGUJg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 126}}
+{"business_id": "P_UREWCQxEYVbBa-KW_Wew", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 127}}
+{"business_id": "pNe8ZCkGTe4cXfKdOF7kYQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 128}}
+{"business_id": "lEH8EUPX3Zn_trHauIycYw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 129}}
+{"business_id": "4Jp0wdJXLpmgCwWv6o6YEQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 130}}
+{"business_id": "kjItczuC-FQa-nECT9VF8A", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 131}}
+{"business_id": "gDcpB3AnhXv9-NUf_3chEA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 132}}
+{"business_id": "lxQ-tzFmL1tmUqZUN-CSRQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 133}}
+{"business_id": "CicbZtEYbmJCGEpo8Y7Iwg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 134}}
+{"business_id": "ynR4-QgEOsE7VhNfIWo73w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 135}}
+{"business_id": "IVDk7BYFWwFsYPRbHLd49w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 136}}
+{"business_id": "NGDLKVh3x5Hch24XWb6M9w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 137}}
+{"business_id": "C69uTzoWFaIWcpnYf2LbRw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 138}}
+{"business_id": "ocnHpILS80DHL--34L8xpw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 139}}
+{"business_id": "pGYovGGnxm0tMmkiQJPygA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 140}}
+{"business_id": "OEIJtIbT_AkpFnojr1e-Bg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 141}}
+{"business_id": "hUf1EpnxbxFU4gf2nL7H-Q", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 142}}
+{"business_id": "HO8vjBAFY3GU1erXMZ_UbQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 143}}
+{"business_id": "wpT1QU7PSQgQQ1DkzI00JA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 144}}
+{"business_id": "B8wHwGZCddRZ_T953FApxQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 145}}
+{"business_id": "aTzxrI2o3vH_HQkqeFszzg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 146}}
+{"business_id": "BlzlywklvYdek5uk_NCX9g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 147}}
+{"business_id": "oyyubJoK0VZ2V3a5sVJULg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 148}}
+{"business_id": "Brs_MJhAXe60iMnlpeqkKA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 149}}
+{"business_id": "u0qfikB-ppp6UwoNKqxlRw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 150}}
+{"business_id": "Nbqzy3ea5_x2zXWkdWlUIQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 151}}
+{"business_id": "9bAyxRD6RsGEUQw424ovQA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 152}}
+{"business_id": "TN4RnyqHMSupRFot4Q-_EA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 153}}
+{"business_id": "zJcxZQbTSAP3q4Fy-6WAyw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 154}}
+{"business_id": "LOFl1w5bXrAdDRAQ-vi3_A", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 155}}
+{"business_id": "O1XrvIq-6IlLunLYEjOiFQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 156}}
+{"business_id": "zGAQqDu0Ak2khVYs9WdQxw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 157}}
+{"business_id": "L3reOLLPez7lnOhyfCpvkg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 158}}
+{"business_id": "icZcEK39HXuL2q08i4EkkQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 159}}
+{"business_id": "PetO4CfZ1k36oMJL3Oc0Wg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 160}}
+{"business_id": "yhFhcA2XZsiLu_LUCwgieA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 161}}
+{"business_id": "C5tqSSgVPfgtsJn3QnvDiQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 162}}
+{"business_id": "Jcp-SJpnkhj_MD8-aDIHaQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 163}}
+{"business_id": "KcOeFHAojaRDV-DxQJkfPA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 164}}
+{"business_id": "6t5xWjPLWAjJV3YFMX_oaw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 165}}
+{"business_id": "pTMnHb_W3sKqS8oCzjHdVA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 166}}
+{"business_id": "pil3w2-2REoXBwEToYZ_tQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 167}}
+{"business_id": "9jRwUN3z7k0seLOzWERVeg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 168}}
+{"business_id": "kesYSgOJW5krU6L8n9qQ4Q", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 169}}
+{"business_id": "WLl0nKeWBksVM5SkKKuLpg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 170}}
+{"business_id": "_2V0as8DZDwVxAi3ZJ0JkA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 171}}
+{"business_id": "lDT8tWq3vp5nKRNns1i2uQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 172}}
+{"business_id": "aY8JCml1xlOg5a1BHn2DNQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 173}}
+{"business_id": "EvAJBgBdgOt1jx1EufRN7w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 174}}
+{"business_id": "f48yzy50jQDH7X5xFAluOw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 175}}
+{"business_id": "GrYs4dj4mseJ4ctu4KhR9Q", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 176}}
+{"business_id": "0vg2Z-HPwkyVVX613j2ysg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 177}}
+{"business_id": "a8Lj13uc3Hhyjm0eYL90sw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 178}}
+{"business_id": "Clumryf360iOnwpZ2ML8aw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 179}}
+{"business_id": "PVrZMB2ILCzhG3PPAHxxyg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 180}}
+{"business_id": "ZO7oni3s8jNG6NUztCQRWQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 181}}
+{"business_id": "i8ejDDR4COtukAAA1Ls5fw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 182}}
+{"business_id": "orYWYTk6kNK1YODsADk_tg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 183}}
+{"business_id": "J79s7qmQWz7Fj9-cIg1dhA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 184}}
+{"business_id": "W0_Rdy8PlbAvS9K9ggkBfA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 185}}
+{"business_id": "s4iotL0ddqMIqQe_AgbknQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 186}}
+{"business_id": "k67-o4M_l_7LO_RxWBIpbA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 187}}
+{"business_id": "OLSSJIp8pu5UlugTF7tuHA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 188}}
+{"business_id": "FlZ1zdVEKWv7dwqm8Uw8-w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 189}}
+{"business_id": "TBp9gdS6xEbSQqffVZ7iag", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 190}}
+{"business_id": "9QK3vhI04Q8ylqk49C3JcQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 191}}
+{"business_id": "sCx8tslal3pMurNyGFVjMQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 192}}
+{"business_id": "qVlDLz8Ri-ThAFJgYHuQ9A", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 193}}
+{"business_id": "X83qWL5WPR-QWGXGQ8WP-Q", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 194}}
+{"business_id": "l7G5tDA96xbA_bx1ZgkOeg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 195}}
+{"business_id": "XOUhjDQ4nRn8-u-79MHFww", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 196}}
+{"business_id": "r6r-XK_wL02FQdAgaauTxg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 197}}
+{"business_id": "Ece_DRuD1yQjRPJBAebRpw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 198}}
+{"business_id": "vec8jeVbbSGzVlStl0Xp_Q", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 199}}
+{"business_id": "k_rLFIMOAbvchgWKEuKdtw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 200}}
+{"business_id": "nrxSzq-VxLqD7aFkE4SH3Q", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 201}}
+{"business_id": "44SY464xDHbvOcjDzRbKkQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 202}}
+{"business_id": "ya4nQkuVH1ZnmNp9m1yISg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 203}}
+{"business_id": "dEbI8l8o9mevbRdjANzsng", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 204}}
+{"business_id": "qiw9Kgsu5YVGrQL_OeDmcQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 205}}
+{"business_id": "flHcoaHEWxACgc-Vk9MsOQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 206}}
+{"business_id": "_FhKGcCbiYgtkXcCiwTAiA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 207}}
+{"business_id": "oMDKIzPJWkh99UuUP_4ikg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 208}}
+{"business_id": "wcnfhQ7Q_us38Q1uEARagw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 209}}
+{"business_id": "xrZWbxETIF8qj6h4uvhJrQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 210}}
+{"business_id": "CqQ2Og9kf-LhlUWtODalCQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 211}}
+{"business_id": "ur679FKjXosJ1VnddICDiw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 212}}
+{"business_id": "Pr-q47vsmM4aoc2t_Sfk8w", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 213}}
+{"business_id": "DPDznXYX5DBLBASKfxQ-DQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 214}}
+{"business_id": "PwrYnl3j3YCGzILX_5UHpw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 215}}
+{"business_id": "aK2ipD9K8-usBw_gkvvJuw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 216}}
+{"business_id": "dtk1Cstz5MHr-B1AOM_nXA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 217}}
+{"business_id": "d6r6Bx-FgNuPrY6-EpeoVQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 218}}
+{"business_id": "6FZf17rNThWKoF4EU18wnw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 219}}
+{"business_id": "kwq1W0opBnOYKoUXWYyQ5g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 220}}
+{"business_id": "qEe7nIhPfEL6L0-VYhWRrA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 221}}
+{"business_id": "Xjgz-WB5XJTR6LGbhNkQrA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 222}}
+{"business_id": "BiFBVQwkCIurPP-ytstGwQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 223}}
+{"business_id": "MWx4HB9p7pCzse9CInLuDw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 224}}
+{"business_id": "XYnQoq_hlqFtC-5AKLT3BQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 225}}
+{"business_id": "RYKGs45OjF-vlb2Ds2Jb_g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 226}}
+{"business_id": "7Q68kpPS6okcC8Kkw7g42A", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 227}}
+{"business_id": "aq0SXPyy_dpFjcfvTDRxBA", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 228}}
+{"business_id": "WRPJeH3goSpj5ke3Pkrnfw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 229}}
+{"business_id": "bLDHO08mO_OMNMBW9gdetw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 230}}
+{"business_id": "SBQ0iuFG15rscuArUYDlTg", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 231}}
+{"business_id": "wcwftlB-61XG4ymGTR61aw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 232}}
+{"business_id": "VzstANC68PM1BbyOcDXEtw", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 233}}
+{"business_id": "iGmQlzlI4g2ky8cogfDpnQ", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 234}}
+{"business_id": "za9mYaRVWkwKkQfjRgvU0g", "categories": "Japanese"}
+{"index": {"_index": "restaurants", "_id": 235}}
+{"business_id": "bokNBgAa9rmMMO8dkZVR1w", "categories": "Japanese"}

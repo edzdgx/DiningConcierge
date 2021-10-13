@@ -1,0 +1,1181 @@
+{
+  "data": {
+    "search": {
+      "total": 240,
+      "business": [
+        {
+          "name": "Lavagna",
+          "id": "jku9Fg8JsUbv_LQzg6PK4g",
+          "rating": 4,
+          "review_count": 395,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "545 E 5th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.72406,
+            "longitude": -73.98226
+          }
+        },
+        {
+          "name": "Nittis",
+          "id": "NlmP5x_Ykznd55Dc85ChUg",
+          "rating": 4.5,
+          "review_count": 210,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "523 9th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10018"
+          },
+          "coordinates": {
+            "latitude": 40.7567,
+            "longitude": -73.99411
+          }
+        },
+        {
+          "name": "Naked Dog",
+          "id": "OwDRIugcA4LkUuTRqpJsog",
+          "rating": 4.5,
+          "review_count": 246,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "47 Java St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11222"
+          },
+          "coordinates": {
+            "latitude": 40.7312720665479,
+            "longitude": -73.9593493647979
+          }
+        },
+        {
+          "name": "Don Peppe",
+          "id": "vXYFa2qzppkGiOiVPrLwDQ",
+          "rating": 4,
+          "review_count": 599,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Desserts",
+              "alias": "desserts"
+            },
+            {
+              "title": "Seafood",
+              "alias": "seafood"
+            }
+          ],
+          "location": {
+            "address1": "135-58 Lefferts Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "South Ozone Park",
+            "country": "US",
+            "postal_code": "11420"
+          },
+          "coordinates": {
+            "latitude": 40.6689814908178,
+            "longitude": -73.8216334221041
+          }
+        },
+        {
+          "name": "Porto By Antonio",
+          "id": "WNOUPEZ6J8SZVSaK6Q3e-A",
+          "rating": 4.5,
+          "review_count": 770,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            }
+          ],
+          "location": {
+            "address1": "8921 Old River Rd",
+            "address2": null,
+            "address3": "",
+            "city": "North Bergen",
+            "country": "US",
+            "postal_code": "07047"
+          },
+          "coordinates": {
+            "latitude": 40.8048834508642,
+            "longitude": -73.9934416639218
+          }
+        },
+        {
+          "name": "Babbalucci",
+          "id": "gyWc5qJRvu26LVQIShdR4Q",
+          "rating": 4,
+          "review_count": 424,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "331 Lenox Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10027"
+          },
+          "coordinates": {
+            "latitude": 40.80894,
+            "longitude": -73.94496
+          }
+        },
+        {
+          "name": "Gran Morsi",
+          "id": "xKIv_b2L2pUHmsoJ-xOepg",
+          "rating": 4.5,
+          "review_count": 404,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Venues & Event Spaces",
+              "alias": "venues"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "22 Warren St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10007"
+          },
+          "coordinates": {
+            "latitude": 40.7142052394856,
+            "longitude": -74.0077535494539
+          }
+        },
+        {
+          "name": "Marlow Bistro",
+          "id": "MdFV5IBcX-Ni6I4Zy1EqIw",
+          "rating": 4,
+          "review_count": 298,
+          "categories": [
+            {
+              "title": "Mediterranean",
+              "alias": "mediterranean"
+            },
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            },
+            {
+              "title": "Venues & Event Spaces",
+              "alias": "venues"
+            }
+          ],
+          "location": {
+            "address1": "1018 Amsterdam Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10025"
+          },
+          "coordinates": {
+            "latitude": 40.8028109023738,
+            "longitude": -73.9641991912535
+          }
+        },
+        {
+          "name": "Il Fiorista",
+          "id": "zuB6VRXwj3QzTh9x-nQIRQ",
+          "rating": 4.5,
+          "review_count": 53,
+          "categories": [
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Floral Designers",
+              "alias": "floraldesigners"
+            }
+          ],
+          "location": {
+            "address1": "17 W 26th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10010"
+          },
+          "coordinates": {
+            "latitude": 40.74413,
+            "longitude": -73.98955
+          }
+        },
+        {
+          "name": "Misirizzi",
+          "id": "hDj_0pbi4mFR5p1H1w6igw",
+          "rating": 4.5,
+          "review_count": 151,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "36 E 4th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10003"
+          },
+          "coordinates": {
+            "latitude": 40.7272,
+            "longitude": -73.99228
+          }
+        },
+        {
+          "name": "Pasta by Hudson",
+          "id": "1AL6P_EC6Z3UPxqhfGFb3Q",
+          "rating": 4.5,
+          "review_count": 54,
+          "categories": [
+            {
+              "title": "Pasta Shops",
+              "alias": "pastashops"
+            },
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            },
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "180 7th Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.7427486,
+            "longitude": -73.9969892
+          }
+        },
+        {
+          "name": "Bella Luna Restaurant",
+          "id": "UpnHg_984LLZ28-kBB5MSQ",
+          "rating": 3.5,
+          "review_count": 303,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Beer Bar",
+              "alias": "beerbar"
+            }
+          ],
+          "location": {
+            "address1": "574 Columbus Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10024"
+          },
+          "coordinates": {
+            "latitude": 40.787762,
+            "longitude": -73.971458
+          }
+        },
+        {
+          "name": "AlMar",
+          "id": "nHMDOIX32dGbfpuNUwsLNQ",
+          "rating": 4,
+          "review_count": 459,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "111 Front St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11201"
+          },
+          "coordinates": {
+            "latitude": 40.702662,
+            "longitude": -73.989177
+          }
+        },
+        {
+          "name": "Lena’s Italian Kitchen",
+          "id": "7jG0JgpWs4APQRflhIyhhQ",
+          "rating": 5,
+          "review_count": 54,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "1167 2nd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10065"
+          },
+          "coordinates": {
+            "latitude": 40.76228,
+            "longitude": -73.963519
+          }
+        },
+        {
+          "name": "Da Gennaro",
+          "id": "JyXn_GCGM2DsNYIzgzQrDw",
+          "rating": 4,
+          "review_count": 1094,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            },
+            {
+              "title": "Gluten-Free",
+              "alias": "gluten_free"
+            }
+          ],
+          "location": {
+            "address1": "129 Mulberry St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10013"
+          },
+          "coordinates": {
+            "latitude": 40.71832,
+            "longitude": -73.99794
+          }
+        },
+        {
+          "name": "Piccolo Angolo Restaurant",
+          "id": "ZVa3-O6LMxZXSpKG0J1h-w",
+          "rating": 4,
+          "review_count": 563,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "621 Hudson St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.7378601855952,
+            "longitude": -74.0058052539825
+          }
+        },
+        {
+          "name": "Sirenetta",
+          "id": "HUY6yj38FXqAQvWUdgL0xA",
+          "rating": 4,
+          "review_count": 292,
+          "categories": [
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            },
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "568 Amsterdam Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10024"
+          },
+          "coordinates": {
+            "latitude": 40.78881,
+            "longitude": -73.97459
+          }
+        },
+        {
+          "name": "La Pecora Bianca",
+          "id": "Zp-K3ztVTzR-LrWwl_CBgA",
+          "rating": 4.5,
+          "review_count": 5,
+          "categories": [
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "18 W 40th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10018"
+          },
+          "coordinates": {
+            "latitude": 40.7525275894982,
+            "longitude": -73.9829860255122
+          }
+        },
+        {
+          "name": "Milkflower",
+          "id": "1OZPOWZwJr-hpvMt6TD4ug",
+          "rating": 4,
+          "review_count": 690,
+          "categories": [
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            }
+          ],
+          "location": {
+            "address1": "3412 31st Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11106"
+          },
+          "coordinates": {
+            "latitude": 40.7628961,
+            "longitude": -73.9207081
+          }
+        },
+        {
+          "name": "Rossini's",
+          "id": "o2SAcKbfOMkA71xUfyee6Q",
+          "rating": 4,
+          "review_count": 225,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "108 E 38th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10016"
+          },
+          "coordinates": {
+            "latitude": 40.74921,
+            "longitude": -73.97883
+          }
+        },
+        {
+          "name": "Bar B",
+          "id": "5MpWHGQ6Qc-M4q1KL_nioA",
+          "rating": 4.5,
+          "review_count": 187,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "Tapas Bars",
+              "alias": "tapas"
+            }
+          ],
+          "location": {
+            "address1": "84 7th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.7395804,
+            "longitude": -73.999118
+          }
+        },
+        {
+          "name": "The Leopard at des Artistes",
+          "id": "-KrQ1gOiyXCbffsWyc5SNQ",
+          "rating": 4,
+          "review_count": 244,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "1 W 67th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10023"
+          },
+          "coordinates": {
+            "latitude": 40.773515,
+            "longitude": -73.978841
+          }
+        },
+        {
+          "name": "Sfilatino Italian Gourmet",
+          "id": "V0zC3awsklyxC0GFzmaTLg",
+          "rating": 4,
+          "review_count": 201,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Sandwiches",
+              "alias": "sandwiches"
+            },
+            {
+              "title": "Salad",
+              "alias": "salad"
+            }
+          ],
+          "location": {
+            "address1": "342 W 57th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.7675056,
+            "longitude": -73.9851073
+          }
+        },
+        {
+          "name": "SoleLuna Restaurant",
+          "id": "3n96VKiKG5Tte8z-U-TaLg",
+          "rating": 4.5,
+          "review_count": 428,
+          "categories": [
+            {
+              "title": "Cafes",
+              "alias": "cafes"
+            },
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "40-01 Queens Blvd",
+            "address2": "",
+            "address3": "",
+            "city": "Sunnyside",
+            "country": "US",
+            "postal_code": "11104"
+          },
+          "coordinates": {
+            "latitude": 40.7439934462309,
+            "longitude": -73.9240421354771
+          }
+        },
+        {
+          "name": "Vesta",
+          "id": "WEhkGLKlj-5X1pq_07Syaw",
+          "rating": 4,
+          "review_count": 710,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "21-02 30th Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11102"
+          },
+          "coordinates": {
+            "latitude": 40.76961,
+            "longitude": -73.92776
+          }
+        },
+        {
+          "name": "SESTINA",
+          "id": "V1kPnrBjxs17oTBExksIqw",
+          "rating": 4.5,
+          "review_count": 75,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Vegan",
+              "alias": "vegan"
+            }
+          ],
+          "location": {
+            "address1": "67 2nd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10003"
+          },
+          "coordinates": {
+            "latitude": 40.726191,
+            "longitude": -73.989755
+          }
+        },
+        {
+          "name": "Isabella",
+          "id": "gAMETn5mltwjn2QLt6bWjw",
+          "rating": 4.5,
+          "review_count": 5,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            }
+          ],
+          "location": {
+            "address1": "110 St Marks Pl",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.726966,
+            "longitude": -73.984334
+          }
+        },
+        {
+          "name": "Bar Pitti",
+          "id": "cGqMEMQFtkB3hIGfLy2R3A",
+          "rating": 3.5,
+          "review_count": 1100,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "268 Ave Of The Americas",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.729047,
+            "longitude": -74.002153
+          }
+        },
+        {
+          "name": "Longo Bros",
+          "id": "xrTwutv3Y5I4lySFOaKa2A",
+          "rating": 4,
+          "review_count": 30,
+          "categories": [
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "474 9th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10018"
+          },
+          "coordinates": {
+            "latitude": 40.754825,
+            "longitude": -73.994862
+          }
+        },
+        {
+          "name": "Frankies 457 Spuntino",
+          "id": "LfRiA6RORToZUSJUHkZBVA",
+          "rating": 4,
+          "review_count": 841,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Sandwiches",
+              "alias": "sandwiches"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "457 Court St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11231"
+          },
+          "coordinates": {
+            "latitude": 40.677328,
+            "longitude": -73.997972
+          }
+        },
+        {
+          "name": "Giorgio's of Gramercy",
+          "id": "5ZEFbq_AQV5VQFG2JKYzlA",
+          "rating": 4,
+          "review_count": 767,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            }
+          ],
+          "location": {
+            "address1": "27 E 21st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10010"
+          },
+          "coordinates": {
+            "latitude": 40.7394209879325,
+            "longitude": -73.9885425567627
+          }
+        },
+        {
+          "name": "Patrizia's - Williamsburg",
+          "id": "LRgB2kEKtBxqIxNksTO_PQ",
+          "rating": 4,
+          "review_count": 701,
+          "categories": [
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            },
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "35 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11249"
+          },
+          "coordinates": {
+            "latitude": 40.7109154314181,
+            "longitude": -73.9673637711639
+          }
+        },
+        {
+          "name": "Sandro's",
+          "id": "vAMKgIUWCrYxjfhceCCNAQ",
+          "rating": 4,
+          "review_count": 86,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "306 E 81st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10028"
+          },
+          "coordinates": {
+            "latitude": 40.7742854,
+            "longitude": -73.9537163
+          }
+        },
+        {
+          "name": "San Carlo Osteria Piemonte",
+          "id": "MCnexHfsclcOpLHS4_2U0A",
+          "rating": 4.5,
+          "review_count": 237,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "90 Thompson St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.72517,
+            "longitude": -74.00212
+          }
+        },
+        {
+          "name": "Dante",
+          "id": "bW3mY-voyav37nU0uaLmNQ",
+          "rating": 4,
+          "review_count": 437,
+          "categories": [
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "79-81 Macdougal St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.72879,
+            "longitude": -74.00165
+          }
+        },
+        {
+          "name": "La Piccola Cucina",
+          "id": "IIsJN_ilLI36zGAF3SMCCQ",
+          "rating": 4,
+          "review_count": 114,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "964 Amsterdam Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10025"
+          },
+          "coordinates": {
+            "latitude": 40.8015,
+            "longitude": -73.96534
+          }
+        },
+        {
+          "name": "Tessa",
+          "id": "8nXo6lNJlXQQIdy8Kf7J9Q",
+          "rating": 4,
+          "review_count": 398,
+          "categories": [
+            {
+              "title": "Mediterranean",
+              "alias": "mediterranean"
+            },
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Italian",
+              "alias": "italian"
+            }
+          ],
+          "location": {
+            "address1": "349 Amsterdam Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10024"
+          },
+          "coordinates": {
+            "latitude": 40.7814059,
+            "longitude": -73.97918
+          }
+        },
+        {
+          "name": "Ornella Trattoria Italiana",
+          "id": "ZfyfGGtr7usMlsQP1LdU2g",
+          "rating": 4,
+          "review_count": 942,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Sandwiches",
+              "alias": "sandwiches"
+            },
+            {
+              "title": "Chicken Shop",
+              "alias": "chickenshop"
+            }
+          ],
+          "location": {
+            "address1": "29-17 23rd Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Astoria",
+            "country": "US",
+            "postal_code": "11105"
+          },
+          "coordinates": {
+            "latitude": 40.7748162,
+            "longitude": -73.9132582
+          }
+        },
+        {
+          "name": "Rosemary’s",
+          "id": "FXYsBqMu2q1dhJYQg_FfAA",
+          "rating": 4.5,
+          "review_count": 67,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            }
+          ],
+          "location": {
+            "address1": "350 1st Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10010"
+          },
+          "coordinates": {
+            "latitude": 40.73512,
+            "longitude": -73.97965
+          }
+        },
+        {
+          "name": "Cafe Fiorello",
+          "id": "6n7D4amt9vEruR73tt3S9w",
+          "rating": 3.5,
+          "review_count": 799,
+          "categories": [
+            {
+              "title": "Italian",
+              "alias": "italian"
+            },
+            {
+              "title": "Pizza",
+              "alias": "pizza"
+            },
+            {
+              "title": "American (Traditional)",
+              "alias": "tradamerican"
+            }
+          ],
+          "location": {
+            "address1": "1900 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10023"
+          },
+          "coordinates": {
+            "latitude": 40.77134,
+            "longitude": -73.9819051
+          }
+        }
+      ]
+    }
+  }
+}

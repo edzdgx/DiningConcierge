@@ -1,0 +1,1425 @@
+{
+  "data": {
+    "search": {
+      "total": 240,
+      "business": [
+        {
+          "name": "Lucien",
+          "id": "aUakHsv3bAk6tDtLe96rIA",
+          "rating": 3.5,
+          "review_count": 382,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "14 1st Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.72339,
+            "longitude": -73.98817
+          }
+        },
+        {
+          "name": "Le Jardinier",
+          "id": "lu0XMmcPyFGvIgqRcbU_4g",
+          "rating": 4,
+          "review_count": 42,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "610 Lexington Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10022"
+          },
+          "coordinates": {
+            "latitude": 40.7582033,
+            "longitude": -73.9713074
+          }
+        },
+        {
+          "name": "Vin Sur Vingt",
+          "id": "CsZLG1VpdFAZiT_qRRmJ2A",
+          "rating": 4,
+          "review_count": 149,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "1140 Broadway",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10001"
+          },
+          "coordinates": {
+            "latitude": 40.743927,
+            "longitude": -73.9887
+          }
+        },
+        {
+          "name": "Cafe Du Soleil",
+          "id": "6S62Z7e0UP82shutXERUzA",
+          "rating": 3.5,
+          "review_count": 481,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "2723 Broadway",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10025"
+          },
+          "coordinates": {
+            "latitude": 40.8000739,
+            "longitude": -73.9682123
+          }
+        },
+        {
+          "name": "L'Atelier de Joël Robuchon",
+          "id": "JUGgD5WXc8eU5MoBKrfSGA",
+          "rating": 4.5,
+          "review_count": 142,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "85 10th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.743052,
+            "longitude": -74.007872
+          }
+        },
+        {
+          "name": "L'Appart",
+          "id": "C6f_MQaRwIbJ8diailVaCA",
+          "rating": 5,
+          "review_count": 113,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "225 Liberty St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10281"
+          },
+          "coordinates": {
+            "latitude": 40.712708,
+            "longitude": -74.015919
+          }
+        },
+        {
+          "name": "Poulette - Midtown East",
+          "id": "RKpp5WskkZmOjpJtRlbY9g",
+          "rating": 4,
+          "review_count": 66,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Chicken Wings",
+              "alias": "chicken_wings"
+            },
+            {
+              "title": "Sandwiches",
+              "alias": "sandwiches"
+            }
+          ],
+          "location": {
+            "address1": "304 E 49th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10017"
+          },
+          "coordinates": {
+            "latitude": 40.75398,
+            "longitude": -73.96857
+          }
+        },
+        {
+          "name": "Quality Bistro",
+          "id": "tmzWZtu9Nimn7Hfas9XmcA",
+          "rating": 4.5,
+          "review_count": 108,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Steakhouses",
+              "alias": "steak"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            }
+          ],
+          "location": {
+            "address1": "120 W 55th St",
+            "address2": null,
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.76306,
+            "longitude": -73.9786
+          }
+        },
+        {
+          "name": "Wayan",
+          "id": "npiIhpcWePbVT3JYEcy3zg",
+          "rating": 4,
+          "review_count": 357,
+          "categories": [
+            {
+              "title": "Indonesian",
+              "alias": "indonesian"
+            },
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "20 Spring St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.7213813139202,
+            "longitude": -73.9950757664721
+          }
+        },
+        {
+          "name": "Jean Claude 2",
+          "id": "bqhBU_iyHpaLlq0WSc5Nkw",
+          "rating": 4,
+          "review_count": 163,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "1343 2nd Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10021"
+          },
+          "coordinates": {
+            "latitude": 40.7680053710938,
+            "longitude": -73.9592895507812
+          }
+        },
+        {
+          "name": "Petite Boucherie",
+          "id": "g5f6p9jfzB30Mhcu6d5OWA",
+          "rating": 4.5,
+          "review_count": 174,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "14 Christopher St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10014"
+          },
+          "coordinates": {
+            "latitude": 40.73382,
+            "longitude": -74.00042
+          }
+        },
+        {
+          "name": "Daniel",
+          "id": "DZaN3bNWfwcm__sNw5bvDg",
+          "rating": 4.5,
+          "review_count": 1673,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            }
+          ],
+          "location": {
+            "address1": "60 E 65th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10065"
+          },
+          "coordinates": {
+            "latitude": 40.7667736797858,
+            "longitude": -73.967607
+          }
+        },
+        {
+          "name": "PMF Pardon My French",
+          "id": "TGP5gbAgml0IDRLGCpFnCw",
+          "rating": 4,
+          "review_count": 1036,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "103 Ave B",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.72473,
+            "longitude": -73.98115
+          }
+        },
+        {
+          "name": "Papilles",
+          "id": "eL1ojVz0QYCZ7xJOii46LQ",
+          "rating": 4.5,
+          "review_count": 74,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "127 E 7th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10009"
+          },
+          "coordinates": {
+            "latitude": 40.726467,
+            "longitude": -73.9839901
+          }
+        },
+        {
+          "name": "Le Botaniste",
+          "id": "-vBfKWJ1v9YdJQT5XUbcBQ",
+          "rating": 4.5,
+          "review_count": 418,
+          "categories": [
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Organic Stores",
+              "alias": "organic_stores"
+            }
+          ],
+          "location": {
+            "address1": "833 Lexington Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10065"
+          },
+          "coordinates": {
+            "latitude": 40.7649986274526,
+            "longitude": -73.9659830279587
+          }
+        },
+        {
+          "name": "FINO French Bistro",
+          "id": "CZg05roVBkzu1QzxTHfkPw",
+          "rating": 4,
+          "review_count": 421,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Modern European",
+              "alias": "modern_european"
+            }
+          ],
+          "location": {
+            "address1": "39 13 Bell Blvd",
+            "address2": null,
+            "address3": "",
+            "city": "Bayside",
+            "country": "US",
+            "postal_code": "11361"
+          },
+          "coordinates": {
+            "latitude": 40.76492513125973,
+            "longitude": -73.77149154087756
+          }
+        },
+        {
+          "name": "Chez Napoleon",
+          "id": "oyxtaqfFZkP_vC0M6GfkbA",
+          "rating": 4,
+          "review_count": 289,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Diners",
+              "alias": "diners"
+            }
+          ],
+          "location": {
+            "address1": "365 W 50th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.76346,
+            "longitude": -73.9883
+          }
+        },
+        {
+          "name": "MIMI",
+          "id": "mjGdtrh0tX7I91GM9dlMNg",
+          "rating": 4,
+          "review_count": 150,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "185 Sullivan St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.7283483,
+            "longitude": -74.0006612
+          }
+        },
+        {
+          "name": "Ratatouille",
+          "id": "U1H_LiA_-9NtaSbehPdODw",
+          "rating": 4.5,
+          "review_count": 280,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Chicken Shop",
+              "alias": "chickenshop"
+            },
+            {
+              "title": "Sandwiches",
+              "alias": "sandwiches"
+            }
+          ],
+          "location": {
+            "address1": "154 E 39th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10016"
+          },
+          "coordinates": {
+            "latitude": 40.7489198,
+            "longitude": -73.9763381
+          }
+        },
+        {
+          "name": "Citroën",
+          "id": "p6-X_mg5ETcUuV-X4RkPCg",
+          "rating": 4.5,
+          "review_count": 76,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "931 Manhattan Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11222"
+          },
+          "coordinates": {
+            "latitude": 40.7312,
+            "longitude": -73.95459
+          }
+        },
+        {
+          "name": "Oxalis",
+          "id": "TQzGf4k3HXyMbnNkYKKQSw",
+          "rating": 4.5,
+          "review_count": 164,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            }
+          ],
+          "location": {
+            "address1": "791 Washington Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11238"
+          },
+          "coordinates": {
+            "latitude": 40.673109,
+            "longitude": -73.9626279
+          }
+        },
+        {
+          "name": "Little Frog Bistro & Bar",
+          "id": "ZWPgzW0qqtksyI3GxCPM-Q",
+          "rating": 4,
+          "review_count": 227,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "322 E 86th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10028"
+          },
+          "coordinates": {
+            "latitude": 40.77722,
+            "longitude": -73.95092
+          }
+        },
+        {
+          "name": "Shun",
+          "id": "UJDb0M1eF4KkxJdCTh67cw",
+          "rating": 4,
+          "review_count": 51,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "610 Lexington Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10022"
+          },
+          "coordinates": {
+            "latitude": 40.7582033,
+            "longitude": -73.9713074
+          }
+        },
+        {
+          "name": "The Consulate",
+          "id": "xtfKAP7X36CCZrJm_Ta6Cg",
+          "rating": 4,
+          "review_count": 143,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "519 Columbus Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10024"
+          },
+          "coordinates": {
+            "latitude": 40.78586,
+            "longitude": -73.97242
+          }
+        },
+        {
+          "name": "Le Pavillon",
+          "id": "7N6Jle8ovxzAiiwwtE77Yw",
+          "rating": 4.5,
+          "review_count": 33,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            }
+          ],
+          "location": {
+            "address1": "One Vanderbilt Ave",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10017"
+          },
+          "coordinates": {
+            "latitude": 40.7524571,
+            "longitude": -73.978131
+          }
+        },
+        {
+          "name": "Le Bilboquet",
+          "id": "yvhhKv2CDjuJsC4ecG848g",
+          "rating": 3.5,
+          "review_count": 191,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Cajun/Creole",
+              "alias": "cajun"
+            },
+            {
+              "title": "Desserts",
+              "alias": "desserts"
+            }
+          ],
+          "location": {
+            "address1": "20 E 60th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10022"
+          },
+          "coordinates": {
+            "latitude": 40.76381,
+            "longitude": -73.97058
+          }
+        },
+        {
+          "name": "Perrine",
+          "id": "sBL7J7s4Rnul40-MB0hXbA",
+          "rating": 4,
+          "review_count": 88,
+          "categories": [
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "2 E 61st St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10065"
+          },
+          "coordinates": {
+            "latitude": 40.7652523152915,
+            "longitude": -73.9719824881672
+          }
+        },
+        {
+          "name": "Chateau 49 Bar A Vin",
+          "id": "9f6chaCx20d1A0Abo6NzUw",
+          "rating": 4,
+          "review_count": 97,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "924 2nd Ave",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10022"
+          },
+          "coordinates": {
+            "latitude": 40.75428,
+            "longitude": -73.9687299
+          }
+        },
+        {
+          "name": "Tartinery",
+          "id": "ujk4ucblDD3TwRderV-Q9Q",
+          "rating": 4,
+          "review_count": 59,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "1 W 59th St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.76453,
+            "longitude": -73.97389
+          }
+        },
+        {
+          "name": "Pascalou",
+          "id": "5XQgZQF-5N94bkQ2d_PJIQ",
+          "rating": 4,
+          "review_count": 247,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "1308 Madison Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10128"
+          },
+          "coordinates": {
+            "latitude": 40.78521,
+            "longitude": -73.95595
+          }
+        },
+        {
+          "name": "OCabanon",
+          "id": "R-biStUvl2zuhIQFk40GsQ",
+          "rating": 4,
+          "review_count": 436,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Tapas Bars",
+              "alias": "tapas"
+            }
+          ],
+          "location": {
+            "address1": "245 W 29th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10001"
+          },
+          "coordinates": {
+            "latitude": 40.7486725,
+            "longitude": -73.9945145
+          }
+        },
+        {
+          "name": "Raoul's Restaurant",
+          "id": "BA6wd1pZTVu1DmrtiyTs8g",
+          "rating": 4,
+          "review_count": 539,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "180 Prince St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10012"
+          },
+          "coordinates": {
+            "latitude": 40.72615,
+            "longitude": -74.00216
+          }
+        },
+        {
+          "name": "La Parisienne",
+          "id": "xTnivXEdEtXrnhp-z4JGvg",
+          "rating": 4.5,
+          "review_count": 613,
+          "categories": [
+            {
+              "title": "Cafes",
+              "alias": "cafes"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "9 Maiden Ln",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10038"
+          },
+          "coordinates": {
+            "latitude": 40.70961,
+            "longitude": -74.0093799
+          }
+        },
+        {
+          "name": "Vin Sur Vingt",
+          "id": "ykTc4pZYEAY0Esd0yVFSOQ",
+          "rating": 4.5,
+          "review_count": 61,
+          "categories": [
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Coffee & Tea",
+              "alias": "coffee"
+            }
+          ],
+          "location": {
+            "address1": "66 W 84th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10024"
+          },
+          "coordinates": {
+            "latitude": 40.78492,
+            "longitude": -73.97291
+          }
+        },
+        {
+          "name": "Yves",
+          "id": "3y_-DwmoM198umnZHSOmKQ",
+          "rating": 4,
+          "review_count": 84,
+          "categories": [
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "385 Greenwich St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10013"
+          },
+          "coordinates": {
+            "latitude": 40.72021,
+            "longitude": -74.00996
+          }
+        },
+        {
+          "name": "Cafe Matisse",
+          "id": "jeJfYLekXo3yxUpDfNukyQ",
+          "rating": 4.5,
+          "review_count": 388,
+          "categories": [
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            },
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "167 Park Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Rutherford",
+            "country": "US",
+            "postal_code": "07070"
+          },
+          "coordinates": {
+            "latitude": 40.82503,
+            "longitude": -74.10933
+          }
+        },
+        {
+          "name": "Bliss 46 Bistro",
+          "id": "K6ik5ceZaea55wXnmHWz0Q",
+          "rating": 4,
+          "review_count": 215,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Burgers",
+              "alias": "burgers"
+            }
+          ],
+          "location": {
+            "address1": "43-46 46th St",
+            "address2": "",
+            "address3": "",
+            "city": "Sunnyside",
+            "country": "US",
+            "postal_code": "11104"
+          },
+          "coordinates": {
+            "latitude": 40.743560749198224,
+            "longitude": -73.91874828398852
+          }
+        },
+        {
+          "name": "Le Baratin",
+          "id": "WoZnkXZInggzgQM_LbDpGg",
+          "rating": 4,
+          "review_count": 229,
+          "categories": [
+            {
+              "title": "Cafes",
+              "alias": "cafes"
+            },
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "26 Greenwich Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.735025,
+            "longitude": -73.999857
+          }
+        },
+        {
+          "name": "Orsay",
+          "id": "V69n3YrAs59GenGB2jLVrA",
+          "rating": 3.5,
+          "review_count": 303,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "1057 Lexington Ave",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10021"
+          },
+          "coordinates": {
+            "latitude": 40.772384,
+            "longitude": -73.960433
+          }
+        },
+        {
+          "name": "L’Express",
+          "id": "uby3glEc0Brt9LAoCI0WTg",
+          "rating": 3.5,
+          "review_count": 838,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "249 Park Ave S",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10003"
+          },
+          "coordinates": {
+            "latitude": 40.738162056865,
+            "longitude": -73.987657
+          }
+        },
+        {
+          "name": "Café Henri",
+          "id": "gISZs8okQgFIpd-yz9aC4w",
+          "rating": 4,
+          "review_count": 717,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            },
+            {
+              "title": "Cafes",
+              "alias": "cafes"
+            }
+          ],
+          "location": {
+            "address1": "1010 50th Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Long Island City",
+            "country": "US",
+            "postal_code": "11101"
+          },
+          "coordinates": {
+            "latitude": 40.742559,
+            "longitude": -73.953697
+          }
+        },
+        {
+          "name": "Bar Bête",
+          "id": "mJeKLz8GC4x6HGWNun1CNA",
+          "rating": 4.5,
+          "review_count": 37,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Venues & Event Spaces",
+              "alias": "venues"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            }
+          ],
+          "location": {
+            "address1": "263 Smith St",
+            "address2": "",
+            "address3": null,
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11231"
+          },
+          "coordinates": {
+            "latitude": 40.6830415993956,
+            "longitude": -73.9928337145761
+          }
+        },
+        {
+          "name": "The Simone",
+          "id": "Okbtt-ISFB3kuoxkl2wVgg",
+          "rating": 5,
+          "review_count": 95,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Bars",
+              "alias": "bars"
+            }
+          ],
+          "location": {
+            "address1": "151 E 82nd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10028"
+          },
+          "coordinates": {
+            "latitude": 40.77682,
+            "longitude": -73.95698
+          }
+        },
+        {
+          "name": "The Four Horsemen",
+          "id": "Orbsfc3nI21mQ8cwSPahhg",
+          "rating": 4.5,
+          "review_count": 215,
+          "categories": [
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            }
+          ],
+          "location": {
+            "address1": "295 Grand St",
+            "address2": "",
+            "address3": "",
+            "city": "Brooklyn",
+            "country": "US",
+            "postal_code": "11211"
+          },
+          "coordinates": {
+            "latitude": 40.71305,
+            "longitude": -73.95732
+          }
+        },
+        {
+          "name": "Les Enfants de Boheme",
+          "id": "qOomR3AwClOGpV1HdqOTFg",
+          "rating": 4.5,
+          "review_count": 275,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Cocktail Bars",
+              "alias": "cocktailbars"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            }
+          ],
+          "location": {
+            "address1": "177 Henry St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10002"
+          },
+          "coordinates": {
+            "latitude": 40.7136187,
+            "longitude": -73.9888503
+          }
+        },
+        {
+          "name": "Frevo",
+          "id": "qLL_x4uzDHCgXd9lwaGxjw",
+          "rating": 4.5,
+          "review_count": 41,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "48 W 8th St",
+            "address2": "",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10011"
+          },
+          "coordinates": {
+            "latitude": 40.73313,
+            "longitude": -73.99867
+          }
+        },
+        {
+          "name": "Per Se",
+          "id": "1DfbZ0VsSCg9g1KILmnvzQ",
+          "rating": 4.5,
+          "review_count": 1693,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "10 Columbus Cir",
+            "address2": "Fl 4",
+            "address3": null,
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10019"
+          },
+          "coordinates": {
+            "latitude": 40.7681528889558,
+            "longitude": -73.9827629623657
+          }
+        },
+        {
+          "name": "Papillon Bistro & Bar",
+          "id": "dS2VNgvdLCAxImvcVBV6wA",
+          "rating": 3.5,
+          "review_count": 407,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Brasseries",
+              "alias": "brasseries"
+            },
+            {
+              "title": "American (New)",
+              "alias": "newamerican"
+            }
+          ],
+          "location": {
+            "address1": "22 E 54th St",
+            "address2": null,
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10022"
+          },
+          "coordinates": {
+            "latitude": 40.760463700357,
+            "longitude": -73.9742553564245
+          }
+        },
+        {
+          "name": "Table d'Hôte",
+          "id": "RP02PZPNdhfoL-TjOMiKVg",
+          "rating": 4.5,
+          "review_count": 160,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            }
+          ],
+          "location": {
+            "address1": "44 E 92nd St",
+            "address2": "",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10128"
+          },
+          "coordinates": {
+            "latitude": 40.78447,
+            "longitude": -73.95581
+          }
+        },
+        {
+          "name": "Jacques",
+          "id": "mBZUWdasmua9XOsWy8xdWA",
+          "rating": 3.5,
+          "review_count": 225,
+          "categories": [
+            {
+              "title": "French",
+              "alias": "french"
+            },
+            {
+              "title": "Wine Bars",
+              "alias": "wine_bars"
+            },
+            {
+              "title": "Breakfast & Brunch",
+              "alias": "breakfast_brunch"
+            }
+          ],
+          "location": {
+            "address1": "206 E 85th St",
+            "address2": "Ste 204",
+            "address3": "",
+            "city": "New York",
+            "country": "US",
+            "postal_code": "10028"
+          },
+          "coordinates": {
+            "latitude": 40.777824,
+            "longitude": -73.954143
+          }
+        }
+      ]
+    }
+  }
+}
