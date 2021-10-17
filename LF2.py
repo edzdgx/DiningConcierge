@@ -43,7 +43,7 @@ def delete_message(receiptHandle):
 
 def recommendation_from_opensearch(categories):
     baseUrl = 'https://search-cc-restaurant-i5r7ahptz75kqm36erw4b4j4gy.us-east-1.es.amazonaws.com'
-    auth = ('master', 'Jinan98@aws')
+    auth = ('master', 'password')
     headers = {'Content-Type': 'application/json'}
     query = {
         "size": 200,
